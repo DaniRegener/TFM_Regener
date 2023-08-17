@@ -1,0 +1,14 @@
+cr_info name solveStep00          n       426 tmin 1.406912e-02 tmax 2.789306e-02 tavg 1.451490e-02 tsum 6.183347e+00 
+cr_info name solveStep00          n       218 tmin 1.421486e-02 tmax 3.376051e-02 tavg 1.499933e-02 tsum 3.269854e+00 
+cr_info name solveStep00          n       148 tmin 1.438925e-02 tmax 2.951289e-02 tavg 1.552152e-02 tsum 2.297185e+00 
+cr_info name solveStep00          n       113 tmin 1.427049e-02 tmax 1.797163e-02 tavg 1.520248e-02 tsum 1.717881e+00 
+cr_info name solveStep00          n        91 tmin 1.407600e-02 tmax 2.575058e-02 tavg 1.586905e-02 tsum 1.444084e+00 
+cr_info name solveStep00          n        75 tmin 1.746965e-02 tmax 2.932460e-02 tavg 1.809275e-02 tsum 1.356956e+00 
+cr_info name solveStep00          n        66 tmin 1.433792e-02 tmax 1.946953e-02 tavg 1.597084e-02 tsum 1.054075e+00 
+cr_info name solveStep00          n        58 tmin 1.444799e-02 tmax 3.154032e-02 tavg 1.630038e-02 tsum 9.454222e-01 
+cr_info name solveStep00          n        51 tmin 1.450520e-02 tmax 1.947244e-02 tavg 1.603901e-02 tsum 8.179896e-01 
+cr_info name solveStep00          n        48 tmin 1.450764e-02 tmax 3.130934e-02 tavg 1.576826e-02 tsum 7.568767e-01 
+cr_info name solveStep00          n        42 tmin 1.423222e-02 tmax 3.226150e-02 tavg 1.515783e-02 tsum 6.366287e-01 
+cr_info name solveStep00          n        39 tmin 1.443026e-02 tmax 3.022569e-02 tavg 1.537988e-02 tsum 5.998153e-01 
+cr_info name solveStep00          n        42 tmin 1.462636e-02 tmax 2.378687e-02 tavg 1.550619e-02 tsum 6.512601e-01 
+cr_info name solveStep00          n        50 tmin 1.426996e-02 tmax 2.447648e-02 tavg 1.532740e-02 tsum 7.663700e-01 
