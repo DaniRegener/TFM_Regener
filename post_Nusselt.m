@@ -41,8 +41,8 @@ colors{3} = [204 255 204;...
 
 % Formats of the files to read
 formatSpec1 = 'NUSSELT RB time %e NuTop %e NuBot %e\n';
-formatSpec2 = "cr_info name ins_solveP00         n     %d tmin %e tmax %e tavg %e tsum %e\n";%,...
-
+formatSpec2 = strcat("cr_info name ins_solveP00         n     %d ",...
+                "tmin %e tmax %e tavg %e tsum %e\n");
 
 for i = 1:length(file_names)
     % read the files and save the data
