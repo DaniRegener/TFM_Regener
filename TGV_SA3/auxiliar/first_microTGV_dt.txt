@@ -1,0 +1,17 @@
+module 100 # INS
+
+#purpose: run a small TGV case to have a quick confirmation that the code and Postproc are ok
+#do not change the parameters, create another case if needed !!!
+
+define(PI,3.14159265359)
+
+#time integration parameters
+
+restart 0 # if 1, reads file restart_file_number and begins from it
+          # if 0, reads start_time model time (floating point) and starts from initial cond.
+#restart_file_number 4
+start_time 0.0  # only for restart 0, initial model time
+end_time  25.0 # end model time
+
+
+fixed_step 0 # 1: time step is fixed; 0: it is a fraction of the maximum

@@ -1,0 +1,34 @@
+
+# *** Numerical parameters for Poisson equation
+solverType       0 # 0 - Fourier; 1 - Multigrid
+infoMassResidual 1 # 0 - No info; 1 - Calculate print div(u_n+1) among others
+pressureRecovery   2 # 0 - No correction; 1 - Substract a point; 2 - Substract the minimum
+# refi 2                    # Only active if pressureRecovery = 1
+# refj 2
+# refk 2
+
+# *** Turbulence parameters
+TurbulenceModel  0 # 0 - DNS; 1 - Smagorinsky; 2 - Vreman, 3 - Wale, 4 - Anisotropic Smagorinsky, 5 - Anisotropic Wale
+
+# *** Initial conditions
+initC 0  #  Ignored in this case
+
+# *** Physical variables
+define(Re,1600) # Reynolds number
+rho 1.0
+nu  <1/Re>
+
+# *** Postprocessing
+
+postCalcVorticity 0 # Activate/deatctivate computation of vorticity
+postCalcQ         0 # Activate/deatctivate computation of Q-criterion
+postCalcOmega     0 # Activate/deatctivate computation of Omega-criterion
+postCalcRortex    0 # Activate/deatctivate computation of Rortex and OmegaR-criterion
+
+#postOmegaEps0 0.01  # Only if computing Omega or Rortex, value of eps0 for Omega/OmegaR
+
+# Nusselt number, only active if the temperature is solved
+#postCalcNusseltTop 0
+#postCalcNusseltBot 0
+
+useProbes 0
