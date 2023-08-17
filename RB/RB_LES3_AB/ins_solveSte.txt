@@ -1,0 +1,1 @@
+cr_info name solveStep00          n     43110 tmin 4.304112e-02 tmax 2.461765e-01 tavg 4.663250e-02 tsum 2.010327e+03 
