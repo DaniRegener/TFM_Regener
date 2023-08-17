@@ -1,0 +1,1 @@
+cr_info name ins_solveP00         n       164 tmin 2.722508e-02 tmax 3.513136e-02 tavg 2.856271e-02 tsum 4.684284e+00 

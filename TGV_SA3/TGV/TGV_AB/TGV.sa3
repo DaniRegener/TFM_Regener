@@ -1,0 +1,96 @@
+module 100 # INS
+
+#purpose: run a small TGV case to have a quick confirmation that the code and Postproc are ok
+#do not change the parameters, create another case if needed !!!
+
+define(PI,3.14159265359)
+
+#time integration parameters
+
+restart 0 # if 1, reads file restart_file_number and begins from it
+          # if 0, reads start_time model time (floating point) and starts from initial cond.
+#restart_file_number 4
+start_time 0.0  # only for restart 0, initial model time
+end_time  25.0 # end model time
+
+
+fixed_step 0 # 1: time step is fixed; 0: it is a fraction of the maximum
+# fdt 0.01 # fixed time step (use this only if fixed_step is 1)
+
+exact_savepost 1 # if one, a smaller time step is forced to match exactly next savepost_time
+savepost_time 5 # every savepost model seconds, a post proc file is saved
+
+wtime_restart 200 # every wtimeRestart wall time seconds, a new restart is saved
+
+info_step 10 # every info_steps time steps, more information is printed
+
+# ******************************************************************************************
+
+# *** INS parameters
+# Case to solve
+# 1: validation uv
+# 2: validation uw
+# 10: TGV
+# 11: TGV + T (transported bubble)
+# 12: Periodic domain with T + Bouyancy (raising bubble)
+# 13: Domain closed by solid Z planes  with T + Bouyancy (raising bubble)
+# 20: RB
+case 10
+
+# *** Domain parameters
+# TGV -> Lx = Ly = Lz = L
+define(L,2.*PI)
+Lx <L>
+Ly <L>
+Lz <L>
+
+# *** Mesh parameters
+# TGV -> Nx = Ny = Nz = N
+define(N,64)
+Nx N
+Ny N
+Nz N
+
+mesh_kind   0    # Uniform
+mesh_dens_f 1.0  # Only rellevant if mesh_kind > 0
+
+temporal_scheme 0  # 0 - Leapfrog;
+                   # Consistent   forms: 1 - RK2 midpoint; 2 - RK3 Heun; 3 - RK3 Ralston; 4 - RK4 Classic;
+                   # Approximated forms: 10- RK2 midpoint; 20- RK3 Heun; 30- RK3 Ralston; 40- RK4 Classic;
+                   # Classic      forms: 5 - SSP_RK3
+fCFL 0.6 # fCFL is needed (to check dt<max) even if fixed_step is 1
+
+# *** Numerical parameters for Poisson equation
+# *** Numerical parameters for Poisson equation
+solverType          0       # 0 - Fourier; 1 - Multigrid
+infoMassResidual    0       # 0 - No info; 1 - Calculate print div(u_n+1) among others
+pressureRecovery      0       # 0 - No correction; 1 - Substract a point; 2 - Substract the minimum
+# refi 2                    # Only active if pressureRecovery = 2
+# refj 2
+# refk 2
+
+# *** Turbulence parameters
+TurbulenceModel  0 # 0 - DNS; 1 - Smagorinsky; 2 - Vreman, 3 - Wale, 4 - Anisotropic Smagorinsky, 5 - Anisotropic Wale
+
+# *** Initial conditions
+initC 0  #  Ignored in this case
+
+# *** Physical variables
+define(Re,1600) # Reynolds number
+rho 1.0
+nu  <1/Re>
+
+# *** Postprocessing
+
+postCalcVorticity 0 # Activate/deatctivate computation of vorticity
+postCalcQ         0 # Activate/deatctivate computation of Q-criterion
+postCalcOmega     0 # Activate/deatctivate computation of Omega-criterion
+postCalcRortex    0 # Activate/deatctivate computation of Rortex and OmegaR-criterion
+
+#postOmegaEps0 0.01  # Only if computing Omega or Rortex, value of eps0 for Omega/OmegaR
+
+# Nusselt number, only active if the temperature is solved
+#postCalcNusseltTop 0
+#postCalcNusseltBot 0
+
+useProbes 0
