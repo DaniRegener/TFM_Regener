@@ -10,7 +10,11 @@
 % This program plots the evolution in time of the Nusselt number in RB case
 % indicating also the volume in Top and Bottom, counting the average from
 % convergence_time to the end of the case. For the reference, Rayleigh 
-% number is 10^7 Prandtl is 0.7.
+% number is 10^7 Prandtl is 0.7. Maybe you want to launch 
+% grep "NUSSELT" (somecase)/stdout00.txt > (somecase)/nusselt.txt
+% grep "cr_info name ins_solveP00" (somecase)/stdout00.txt > 
+%                                               (somecase)/ins_solveP.txt
+% on a linux cmd to generate the files needed by this function                                        
 
 clear
 
