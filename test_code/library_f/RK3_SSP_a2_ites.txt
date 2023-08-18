@@ -1,0 +1,6 @@
+Number of iterations:  220
+Number of iterations:  110
+Number of iterations:  74
+Number of iterations:  56
+Number of iterations:  45
+Number of iterations:  38

@@ -1,0 +1,77 @@
+[[ 0.          0.          0.          0.          0.        ]
+ [ 0.14965902  0.          0.          0.          0.        ]
+ [-0.00880936  0.37921031  0.          0.          0.        ]
+ [ 0.40117765 -0.60187692  0.82295503  0.          0.        ]
+ [-0.1904297   0.81382262 -0.36456125  0.69945046  0.        ]]
+[0.00559419 0.34474304 0.02891182 0.46769371 0.15305725]
+[0.         0.14965902 0.37040096 0.62225576 0.95828213]
+[[ 0.          0.          0.          0.          0.        ]
+ [ 0.14965902  0.          0.          0.          0.        ]
+ [-0.00880936  0.37921031  0.          0.          0.        ]
+ [ 0.40117765 -0.60187692  0.82295503  0.          0.        ]
+ [-0.1904297   0.81382262 -0.36456125  0.69945046  0.        ]]
+[0.00559419 0.34474304 0.02891182 0.46769371 0.15305725]
+[0.         0.14965902 0.37040096 0.62225576 0.95828213]
+Iteration 0000, time 0.00, dt 1.41e-02, beta 1.00 - umax -0.98, umin 0.98, uavg 0.00 - vmax -0.98, vmin 0.98, vavg 0.00
+Div final = 5.689893001203927e-16
+Iteration 0001, time 0.01, dt 1.41e-02, beta 1.00 - umax -0.98, umin 0.98, uavg -0.00 - vmax -0.98, vmin 0.98, vavg -0.00
+Div final = 7.355227538141662e-16
+Iteration 0002, time 0.03, dt 1.42e-02, beta 1.00 - umax -0.97, umin 0.97, uavg -0.00 - vmax -0.97, vmin 0.97, vavg -0.00
+Div final = 1.0373646386341306e-15
+Iteration 0003, time 0.04, dt 1.43e-02, beta 1.00 - umax -0.96, umin 0.96, uavg -0.00 - vmax -0.96, vmin 0.96, vavg -0.00
+Div final = 1.1310397063368782e-15
+Iteration 0004, time 0.06, dt 1.44e-02, beta 1.00 - umax -0.96, umin 0.96, uavg -0.00 - vmax -0.96, vmin 0.96, vavg -0.00
+Div final = 1.2177758801357186e-15
+Iteration 0005, time 0.07, dt 1.44e-02, beta 1.00 - umax -0.95, umin 0.95, uavg -0.00 - vmax -0.95, vmin 0.95, vavg -0.00
+Div final = 1.339206523454095e-15
+Iteration 0006, time 0.09, dt 1.45e-02, beta 1.00 - umax -0.95, umin 0.95, uavg -0.00 - vmax -0.95, vmin 0.95, vavg -0.00
+Div final = 1.717376241217039e-15
+Iteration 0007, time 0.10, dt 1.46e-02, beta 1.00 - umax -0.94, umin 0.94, uavg -0.00 - vmax -0.94, vmin 0.94, vavg -0.00
+Div final = 1.5881393422567669e-15
+Iteration 0008, time 0.11, dt 1.47e-02, beta 1.00 - umax -0.94, umin 0.94, uavg -0.00 - vmax -0.94, vmin 0.94, vavg -0.00
+Div final = 1.6393136847980827e-15
+Iteration 0009, time 0.13, dt 1.48e-02, beta 1.00 - umax -0.93, umin 0.93, uavg -0.00 - vmax -0.93, vmin 0.93, vavg -0.00
+Div final = 1.8388068845354155e-15
+Iteration 0010, time 0.14, dt 1.48e-02, beta 1.00 - umax -0.93, umin 0.93, uavg -0.00 - vmax -0.93, vmin 0.93, vavg -0.00
+Div final = 1.932481952238163e-15
+Iteration 0011, time 0.16, dt 1.49e-02, beta 1.00 - umax -0.92, umin 0.92, uavg -0.00 - vmax -0.92, vmin 0.92, vavg -0.00
+Div final = 2.203098814490545e-15
+Iteration 0012, time 0.17, dt 1.50e-02, beta 1.00 - umax -0.92, umin 0.92, uavg -0.00 - vmax -0.92, vmin 0.92, vavg -0.00
+Div final = 2.2620794126737565e-15
+Iteration 0013, time 0.19, dt 1.51e-02, beta 1.00 - umax -0.91, umin 0.91, uavg -0.00 - vmax -0.91, vmin 0.91, vavg -0.00
+Div final = 2.2447321779139884e-15
+Iteration 0014, time 0.20, dt 1.52e-02, beta 1.00 - umax -0.91, umin 0.91, uavg -0.00 - vmax -0.91, vmin 0.91, vavg -0.00
+Div final = 2.3349377986647823e-15
+Iteration 0015, time 0.22, dt 1.53e-02, beta 1.00 - umax -0.90, umin 0.90, uavg -0.00 - vmax -0.90, vmin 0.90, vavg -0.00
+Div final = 2.480654570646834e-15
+Iteration 0016, time 0.23, dt 1.53e-02, beta 1.00 - umax -0.90, umin 0.90, uavg -0.00 - vmax -0.90, vmin 0.90, vavg -0.00
+Div final = 2.6124935548210715e-15
+Iteration 0017, time 0.25, dt 1.54e-02, beta 1.00 - umax -0.89, umin 0.89, uavg -0.00 - vmax -0.89, vmin 0.89, vavg -0.00
+Div final = 3.0322966360074588e-15
+Iteration 0018, time 0.27, dt 1.55e-02, beta 1.00 - umax -0.88, umin 0.89, uavg -0.00 - vmax -0.88, vmin 0.88, vavg -0.00
+Div final = 3.236994006172722e-15
+Iteration 0019, time 0.28, dt 1.56e-02, beta 1.00 - umax -0.88, umin 0.88, uavg -0.00 - vmax -0.88, vmin 0.88, vavg -0.00
+Div final = 3.608224830031759e-15
+Iteration 0020, time 0.30, dt 1.57e-02, beta 1.00 - umax -0.87, umin 0.87, uavg -0.00 - vmax -0.87, vmin 0.87, vavg -0.00
+Div final = 3.7921055184853e-15
+Iteration 0021, time 0.31, dt 1.58e-02, beta 1.00 - umax -0.87, umin 0.87, uavg -0.00 - vmax -0.87, vmin 0.87, vavg -0.00
+Div final = 3.8892500331400015e-15
+Iteration 0022, time 0.33, dt 1.59e-02, beta 1.00 - umax -0.86, umin 0.86, uavg -0.00 - vmax -0.86, vmin 0.86, vavg -0.00
+Div final = 4.152928001488476e-15
+Iteration 0023, time 0.34, dt 1.60e-02, beta 1.00 - umax -0.86, umin 0.86, uavg -0.00 - vmax -0.86, vmin 0.86, vavg -0.00
+Div final = 4.170275236248244e-15
+Iteration 0024, time 0.36, dt 1.61e-02, beta 1.00 - umax -0.85, umin 0.85, uavg -0.00 - vmax -0.85, vmin 0.85, vavg -0.00
+Div final = 4.288236432614667e-15
+Iteration 0025, time 0.38, dt 1.62e-02, beta 1.00 - umax -0.85, umin 0.85, uavg -0.00 - vmax -0.85, vmin 0.85, vavg -0.00
+Div final = 4.5727310826748635e-15
+Iteration 0026, time 0.39, dt 1.63e-02, beta 1.00 - umax -0.84, umin 0.84, uavg -0.00 - vmax -0.84, vmin 0.84, vavg -0.00
+Div final = 4.735795089416683e-15
+Iteration 0027, time 0.41, dt 1.64e-02, beta 1.00 - umax -0.84, umin 0.84, uavg -0.00 - vmax -0.84, vmin 0.84, vavg -0.00
+Div final = 4.7427339833205906e-15
+Iteration 0028, time 0.42, dt 1.65e-02, beta 1.00 - umax -0.83, umin 0.83, uavg -0.00 - vmax -0.83, vmin 0.83, vavg -0.00
+Div final = 5.0411064211886014e-15
+Iteration 0029, time 0.44, dt 1.66e-02, beta 1.00 - umax -0.83, umin 0.83, uavg -0.00 - vmax -0.83, vmin 0.83, vavg -0.00
+Div final = 4.6629367034256575e-15
+Iteration 0030, time 0.46, dt 1.67e-02, beta 1.00 - umax -0.82, umin 0.82, uavg -0.00 - vmax -0.82, vmin 0.82, vavg -0.00
+Div final = 4.6074255521944e-15
+Iteration 0031, time 0.47, dt 1.68e-02, beta 1.00 - umax -0.82, umin 0.82, uavg -0.00 - vmax -0.82, vmin 0.82, vavg -0.00

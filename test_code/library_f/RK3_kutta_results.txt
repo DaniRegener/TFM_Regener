@@ -1,0 +1,970 @@
+Iteration 0000, time 0.00, dt 1.05e-02, beta 1.00 - umax -0.98, umin 0.98, uavg 0.00 - vmax -0.98, vmin 0.98, vavg 0.00
+Iteration 0001, time 0.01, dt 1.06e-02, beta 1.00 - umax -0.98, umin 0.98, uavg -0.00 - vmax -0.98, vmin 0.98, vavg -0.00
+Iteration 0002, time 0.02, dt 1.06e-02, beta 1.00 - umax -0.97, umin 0.97, uavg -0.00 - vmax -0.97, vmin 0.97, vavg -0.00
+Iteration 0003, time 0.03, dt 1.06e-02, beta 1.00 - umax -0.97, umin 0.97, uavg -0.00 - vmax -0.97, vmin 0.97, vavg -0.00
+Iteration 0004, time 0.04, dt 1.07e-02, beta 1.00 - umax -0.96, umin 0.96, uavg -0.00 - vmax -0.96, vmin 0.96, vavg -0.00
+Iteration 0005, time 0.05, dt 1.07e-02, beta 1.00 - umax -0.96, umin 0.96, uavg -0.00 - vmax -0.96, vmin 0.96, vavg -0.00
+Iteration 0006, time 0.06, dt 1.08e-02, beta 1.00 - umax -0.96, umin 0.96, uavg -0.00 - vmax -0.96, vmin 0.96, vavg -0.00
+Iteration 0007, time 0.07, dt 1.08e-02, beta 1.00 - umax -0.95, umin 0.95, uavg -0.00 - vmax -0.95, vmin 0.95, vavg -0.00
+Iteration 0008, time 0.09, dt 1.09e-02, beta 1.00 - umax -0.95, umin 0.95, uavg -0.00 - vmax -0.95, vmin 0.95, vavg -0.00
+Iteration 0009, time 0.10, dt 1.09e-02, beta 1.00 - umax -0.94, umin 0.95, uavg -0.00 - vmax -0.94, vmin 0.94, vavg -0.00
+Iteration 0010, time 0.11, dt 1.10e-02, beta 1.00 - umax -0.94, umin 0.94, uavg -0.00 - vmax -0.94, vmin 0.94, vavg -0.00
+Iteration 0011, time 0.12, dt 1.10e-02, beta 1.00 - umax -0.94, umin 0.94, uavg -0.00 - vmax -0.94, vmin 0.94, vavg -0.00
+Iteration 0012, time 0.13, dt 1.11e-02, beta 1.00 - umax -0.93, umin 0.93, uavg -0.00 - vmax -0.93, vmin 0.93, vavg -0.00
+Iteration 0013, time 0.14, dt 1.11e-02, beta 1.00 - umax -0.93, umin 0.93, uavg -0.00 - vmax -0.93, vmin 0.93, vavg -0.00
+Iteration 0014, time 0.15, dt 1.11e-02, beta 1.00 - umax -0.92, umin 0.93, uavg -0.00 - vmax -0.92, vmin 0.92, vavg -0.00
+Iteration 0015, time 0.16, dt 1.12e-02, beta 1.00 - umax -0.92, umin 0.92, uavg -0.00 - vmax -0.92, vmin 0.92, vavg -0.00
+Iteration 0016, time 0.17, dt 1.12e-02, beta 1.00 - umax -0.92, umin 0.92, uavg -0.00 - vmax -0.92, vmin 0.92, vavg -0.00
+Iteration 0017, time 0.18, dt 1.13e-02, beta 1.00 - umax -0.91, umin 0.91, uavg -0.00 - vmax -0.91, vmin 0.91, vavg -0.00
+Iteration 0018, time 0.20, dt 1.13e-02, beta 1.00 - umax -0.91, umin 0.91, uavg -0.00 - vmax -0.91, vmin 0.91, vavg -0.00
+Iteration 0019, time 0.21, dt 1.14e-02, beta 1.00 - umax -0.90, umin 0.91, uavg -0.00 - vmax -0.90, vmin 0.90, vavg -0.00
+Iteration 0020, time 0.22, dt 1.14e-02, beta 1.00 - umax -0.90, umin 0.90, uavg -0.00 - vmax -0.90, vmin 0.90, vavg -0.00
+Iteration 0021, time 0.23, dt 1.15e-02, beta 1.00 - umax -0.90, umin 0.90, uavg -0.00 - vmax -0.90, vmin 0.90, vavg -0.00
+Iteration 0022, time 0.24, dt 1.15e-02, beta 1.00 - umax -0.89, umin 0.89, uavg -0.00 - vmax -0.89, vmin 0.89, vavg -0.00
+Iteration 0023, time 0.25, dt 1.16e-02, beta 1.00 - umax -0.89, umin 0.89, uavg -0.00 - vmax -0.89, vmin 0.89, vavg -0.00
+Iteration 0024, time 0.26, dt 1.16e-02, beta 1.00 - umax -0.88, umin 0.89, uavg -0.00 - vmax -0.88, vmin 0.88, vavg -0.00
+Iteration 0025, time 0.28, dt 1.17e-02, beta 1.00 - umax -0.88, umin 0.88, uavg -0.00 - vmax -0.88, vmin 0.88, vavg -0.00
+Iteration 0026, time 0.29, dt 1.18e-02, beta 1.00 - umax -0.88, umin 0.88, uavg -0.00 - vmax -0.88, vmin 0.88, vavg -0.00
+Iteration 0027, time 0.30, dt 1.18e-02, beta 1.00 - umax -0.87, umin 0.87, uavg -0.00 - vmax -0.87, vmin 0.87, vavg -0.00
+Iteration 0028, time 0.31, dt 1.19e-02, beta 1.00 - umax -0.87, umin 0.87, uavg -0.00 - vmax -0.87, vmin 0.87, vavg -0.00
+Iteration 0029, time 0.32, dt 1.19e-02, beta 1.00 - umax -0.86, umin 0.87, uavg -0.00 - vmax -0.86, vmin 0.86, vavg -0.00
+Iteration 0030, time 0.34, dt 1.20e-02, beta 1.00 - umax -0.86, umin 0.86, uavg -0.00 - vmax -0.86, vmin 0.86, vavg -0.00
+Iteration 0031, time 0.35, dt 1.20e-02, beta 1.00 - umax -0.86, umin 0.86, uavg -0.00 - vmax -0.86, vmin 0.86, vavg -0.00
+Iteration 0032, time 0.36, dt 1.21e-02, beta 1.00 - umax -0.85, umin 0.85, uavg -0.00 - vmax -0.85, vmin 0.85, vavg -0.00
+Iteration 0033, time 0.37, dt 1.21e-02, beta 1.00 - umax -0.85, umin 0.85, uavg -0.00 - vmax -0.85, vmin 0.85, vavg -0.00
+Iteration 0034, time 0.38, dt 1.22e-02, beta 1.00 - umax -0.84, umin 0.85, uavg -0.00 - vmax -0.84, vmin 0.84, vavg -0.00
+Iteration 0035, time 0.40, dt 1.23e-02, beta 1.00 - umax -0.84, umin 0.84, uavg -0.00 - vmax -0.84, vmin 0.84, vavg -0.00
+Iteration 0036, time 0.41, dt 1.23e-02, beta 1.00 - umax -0.84, umin 0.84, uavg -0.00 - vmax -0.84, vmin 0.84, vavg -0.00
+Iteration 0037, time 0.42, dt 1.24e-02, beta 1.00 - umax -0.83, umin 0.83, uavg -0.00 - vmax -0.83, vmin 0.83, vavg -0.00
+Iteration 0038, time 0.43, dt 1.24e-02, beta 1.00 - umax -0.83, umin 0.83, uavg -0.00 - vmax -0.83, vmin 0.83, vavg -0.00
+Iteration 0039, time 0.45, dt 1.25e-02, beta 1.00 - umax -0.82, umin 0.83, uavg -0.00 - vmax -0.82, vmin 0.82, vavg -0.00
+Iteration 0040, time 0.46, dt 1.25e-02, beta 1.00 - umax -0.82, umin 0.82, uavg -0.00 - vmax -0.82, vmin 0.82, vavg -0.00
+Iteration 0041, time 0.47, dt 1.26e-02, beta 1.00 - umax -0.82, umin 0.82, uavg -0.00 - vmax -0.82, vmin 0.82, vavg -0.00
+Iteration 0042, time 0.48, dt 1.27e-02, beta 1.00 - umax -0.81, umin 0.81, uavg -0.00 - vmax -0.81, vmin 0.81, vavg -0.00
+Iteration 0043, time 0.50, dt 1.27e-02, beta 1.00 - umax -0.81, umin 0.81, uavg -0.00 - vmax -0.81, vmin 0.81, vavg -0.00
+Iteration 0044, time 0.51, dt 1.28e-02, beta 1.00 - umax -0.80, umin 0.81, uavg -0.00 - vmax -0.80, vmin 0.80, vavg -0.00
+Iteration 0045, time 0.52, dt 1.29e-02, beta 1.00 - umax -0.80, umin 0.80, uavg -0.00 - vmax -0.80, vmin 0.80, vavg -0.00
+Iteration 0046, time 0.53, dt 1.29e-02, beta 1.00 - umax -0.80, umin 0.80, uavg -0.00 - vmax -0.80, vmin 0.80, vavg -0.00
+Iteration 0047, time 0.55, dt 1.30e-02, beta 1.00 - umax -0.79, umin 0.79, uavg -0.00 - vmax -0.79, vmin 0.79, vavg -0.00
+Iteration 0048, time 0.56, dt 1.31e-02, beta 1.00 - umax -0.79, umin 0.79, uavg -0.00 - vmax -0.79, vmin 0.79, vavg -0.00
+Iteration 0049, time 0.57, dt 1.31e-02, beta 1.00 - umax -0.78, umin 0.79, uavg -0.00 - vmax -0.79, vmin 0.78, vavg -0.00
+Iteration 0050, time 0.59, dt 1.32e-02, beta 1.00 - umax -0.78, umin 0.78, uavg -0.00 - vmax -0.78, vmin 0.78, vavg -0.00
+Iteration 0051, time 0.60, dt 1.33e-02, beta 1.00 - umax -0.78, umin 0.78, uavg -0.00 - vmax -0.78, vmin 0.78, vavg -0.00
+Iteration 0052, time 0.61, dt 1.33e-02, beta 1.00 - umax -0.77, umin 0.77, uavg -0.00 - vmax -0.77, vmin 0.77, vavg -0.00
+Iteration 0053, time 0.63, dt 1.34e-02, beta 1.00 - umax -0.77, umin 0.77, uavg -0.00 - vmax -0.77, vmin 0.77, vavg -0.00
+Iteration 0054, time 0.64, dt 1.35e-02, beta 1.00 - umax -0.76, umin 0.77, uavg -0.00 - vmax -0.77, vmin 0.76, vavg -0.00
+Iteration 0055, time 0.65, dt 1.35e-02, beta 1.00 - umax -0.76, umin 0.76, uavg -0.00 - vmax -0.76, vmin 0.76, vavg -0.00
+Iteration 0056, time 0.67, dt 1.36e-02, beta 1.00 - umax -0.76, umin 0.76, uavg -0.00 - vmax -0.76, vmin 0.76, vavg -0.00
+Iteration 0057, time 0.68, dt 1.37e-02, beta 1.00 - umax -0.75, umin 0.75, uavg -0.00 - vmax -0.75, vmin 0.75, vavg -0.00
+Iteration 0058, time 0.69, dt 1.37e-02, beta 1.00 - umax -0.75, umin 0.75, uavg -0.00 - vmax -0.75, vmin 0.75, vavg -0.00
+Iteration 0059, time 0.71, dt 1.38e-02, beta 1.00 - umax -0.74, umin 0.75, uavg -0.00 - vmax -0.75, vmin 0.74, vavg -0.00
+Iteration 0060, time 0.72, dt 1.39e-02, beta 1.00 - umax -0.74, umin 0.74, uavg -0.00 - vmax -0.74, vmin 0.74, vavg -0.00
+Iteration 0061, time 0.74, dt 1.40e-02, beta 1.00 - umax -0.74, umin 0.74, uavg -0.00 - vmax -0.74, vmin 0.74, vavg -0.00
+Iteration 0062, time 0.75, dt 1.40e-02, beta 1.00 - umax -0.73, umin 0.73, uavg -0.00 - vmax -0.73, vmin 0.73, vavg -0.00
+Iteration 0063, time 0.76, dt 1.41e-02, beta 1.00 - umax -0.73, umin 0.73, uavg -0.00 - vmax -0.73, vmin 0.73, vavg -0.00
+Iteration 0064, time 0.78, dt 1.42e-02, beta 1.00 - umax -0.72, umin 0.73, uavg -0.00 - vmax -0.73, vmin 0.72, vavg -0.00
+Iteration 0065, time 0.79, dt 1.43e-02, beta 1.00 - umax -0.72, umin 0.72, uavg -0.00 - vmax -0.72, vmin 0.72, vavg -0.00
+Iteration 0066, time 0.81, dt 1.43e-02, beta 1.00 - umax -0.72, umin 0.72, uavg -0.00 - vmax -0.72, vmin 0.72, vavg -0.00
+Iteration 0067, time 0.82, dt 1.44e-02, beta 1.00 - umax -0.71, umin 0.71, uavg -0.00 - vmax -0.71, vmin 0.71, vavg -0.00
+Iteration 0068, time 0.83, dt 1.45e-02, beta 1.00 - umax -0.71, umin 0.71, uavg -0.00 - vmax -0.71, vmin 0.71, vavg -0.00
+Iteration 0069, time 0.85, dt 1.46e-02, beta 1.00 - umax -0.70, umin 0.71, uavg -0.00 - vmax -0.71, vmin 0.70, vavg -0.00
+Iteration 0070, time 0.86, dt 1.47e-02, beta 1.00 - umax -0.70, umin 0.70, uavg -0.00 - vmax -0.70, vmin 0.70, vavg -0.00
+Iteration 0071, time 0.88, dt 1.47e-02, beta 1.00 - umax -0.70, umin 0.70, uavg -0.00 - vmax -0.70, vmin 0.70, vavg -0.00
+Iteration 0072, time 0.89, dt 1.48e-02, beta 1.00 - umax -0.69, umin 0.69, uavg -0.00 - vmax -0.69, vmin 0.69, vavg -0.00
+Iteration 0073, time 0.91, dt 1.49e-02, beta 1.00 - umax -0.69, umin 0.69, uavg -0.00 - vmax -0.69, vmin 0.69, vavg -0.00
+Iteration 0074, time 0.92, dt 1.50e-02, beta 1.00 - umax -0.68, umin 0.69, uavg -0.00 - vmax -0.69, vmin 0.68, vavg -0.00
+Iteration 0075, time 0.94, dt 1.51e-02, beta 1.00 - umax -0.68, umin 0.68, uavg -0.00 - vmax -0.68, vmin 0.68, vavg -0.00
+Iteration 0076, time 0.95, dt 1.52e-02, beta 1.00 - umax -0.68, umin 0.68, uavg -0.00 - vmax -0.68, vmin 0.68, vavg -0.00
+Iteration 0077, time 0.97, dt 1.53e-02, beta 1.00 - umax -0.67, umin 0.67, uavg -0.00 - vmax -0.67, vmin 0.67, vavg -0.00
+Iteration 0078, time 0.98, dt 1.53e-02, beta 1.00 - umax -0.67, umin 0.67, uavg -0.00 - vmax -0.67, vmin 0.67, vavg -0.00
+Iteration 0079, time 1.00, dt 1.54e-02, beta 1.00 - umax -0.66, umin 0.67, uavg -0.00 - vmax -0.67, vmin 0.66, vavg -0.00
+Iteration 0080, time 1.01, dt 1.55e-02, beta 1.00 - umax -0.66, umin 0.66, uavg -0.00 - vmax -0.66, vmin 0.66, vavg -0.00
+Iteration 0081, time 1.03, dt 1.56e-02, beta 1.00 - umax -0.66, umin 0.66, uavg -0.00 - vmax -0.66, vmin 0.66, vavg -0.00
+Iteration 0082, time 1.05, dt 1.57e-02, beta 1.00 - umax -0.65, umin 0.65, uavg -0.00 - vmax -0.65, vmin 0.65, vavg -0.00
+Iteration 0083, time 1.06, dt 1.58e-02, beta 1.00 - umax -0.65, umin 0.65, uavg -0.00 - vmax -0.65, vmin 0.65, vavg -0.00
+Iteration 0084, time 1.08, dt 1.59e-02, beta 1.00 - umax -0.65, umin 0.65, uavg -0.00 - vmax -0.65, vmin 0.64, vavg -0.00
+Iteration 0085, time 1.09, dt 1.60e-02, beta 1.00 - umax -0.64, umin 0.64, uavg -0.00 - vmax -0.64, vmin 0.64, vavg -0.00
+Iteration 0086, time 1.11, dt 1.61e-02, beta 1.00 - umax -0.64, umin 0.64, uavg -0.00 - vmax -0.64, vmin 0.64, vavg -0.00
+Iteration 0087, time 1.12, dt 1.62e-02, beta 1.00 - umax -0.63, umin 0.63, uavg -0.00 - vmax -0.63, vmin 0.63, vavg -0.00
+Iteration 0088, time 1.14, dt 1.63e-02, beta 1.00 - umax -0.63, umin 0.63, uavg -0.00 - vmax -0.63, vmin 0.63, vavg -0.00
+Iteration 0089, time 1.16, dt 1.64e-02, beta 1.00 - umax -0.63, umin 0.63, uavg -0.00 - vmax -0.63, vmin 0.62, vavg -0.00
+Iteration 0090, time 1.17, dt 1.65e-02, beta 1.00 - umax -0.62, umin 0.62, uavg -0.00 - vmax -0.62, vmin 0.62, vavg -0.00
+Iteration 0091, time 1.19, dt 1.66e-02, beta 1.00 - umax -0.62, umin 0.62, uavg -0.00 - vmax -0.62, vmin 0.62, vavg -0.00
+Iteration 0092, time 1.21, dt 1.67e-02, beta 1.00 - umax -0.61, umin 0.61, uavg -0.00 - vmax -0.61, vmin 0.61, vavg -0.00
+Iteration 0093, time 1.22, dt 1.68e-02, beta 1.00 - umax -0.61, umin 0.61, uavg -0.00 - vmax -0.61, vmin 0.61, vavg -0.00
+Iteration 0094, time 1.24, dt 1.69e-02, beta 1.00 - umax -0.61, umin 0.61, uavg -0.00 - vmax -0.61, vmin 0.60, vavg -0.00
+Iteration 0095, time 1.26, dt 1.70e-02, beta 1.00 - umax -0.60, umin 0.60, uavg -0.00 - vmax -0.60, vmin 0.60, vavg -0.00
+Iteration 0096, time 1.27, dt 1.71e-02, beta 1.00 - umax -0.60, umin 0.60, uavg -0.00 - vmax -0.60, vmin 0.60, vavg -0.00
+Iteration 0097, time 1.29, dt 1.73e-02, beta 1.00 - umax -0.59, umin 0.59, uavg -0.00 - vmax -0.59, vmin 0.59, vavg -0.00
+Iteration 0098, time 1.31, dt 1.74e-02, beta 1.00 - umax -0.59, umin 0.59, uavg -0.00 - vmax -0.59, vmin 0.59, vavg -0.00
+Iteration 0099, time 1.33, dt 1.75e-02, beta 1.00 - umax -0.59, umin 0.59, uavg -0.00 - vmax -0.59, vmin 0.59, vavg -0.00
+Iteration 0100, time 1.34, dt 1.76e-02, beta 1.00 - umax -0.58, umin 0.58, uavg -0.00 - vmax -0.58, vmin 0.58, vavg -0.00
+Iteration 0101, time 1.36, dt 1.77e-02, beta 1.00 - umax -0.58, umin 0.58, uavg -0.00 - vmax -0.58, vmin 0.58, vavg -0.00
+Iteration 0102, time 1.38, dt 1.78e-02, beta 1.00 - umax -0.57, umin 0.57, uavg -0.00 - vmax -0.57, vmin 0.57, vavg -0.00
+Iteration 0103, time 1.40, dt 1.79e-02, beta 1.00 - umax -0.57, umin 0.57, uavg -0.00 - vmax -0.57, vmin 0.57, vavg -0.00
+Iteration 0104, time 1.41, dt 1.81e-02, beta 1.00 - umax -0.57, umin 0.57, uavg -0.00 - vmax -0.57, vmin 0.57, vavg -0.00
+Iteration 0105, time 1.43, dt 1.82e-02, beta 1.00 - umax -0.56, umin 0.56, uavg -0.00 - vmax -0.56, vmin 0.56, vavg -0.00
+Iteration 0106, time 1.45, dt 1.83e-02, beta 1.00 - umax -0.56, umin 0.56, uavg -0.00 - vmax -0.56, vmin 0.56, vavg -0.00
+Iteration 0107, time 1.47, dt 1.84e-02, beta 1.00 - umax -0.55, umin 0.55, uavg -0.00 - vmax -0.55, vmin 0.55, vavg -0.00
+Iteration 0108, time 1.49, dt 1.86e-02, beta 1.00 - umax -0.55, umin 0.55, uavg -0.00 - vmax -0.55, vmin 0.55, vavg -0.00
+Iteration 0109, time 1.51, dt 1.87e-02, beta 1.00 - umax -0.55, umin 0.55, uavg -0.00 - vmax -0.55, vmin 0.55, vavg -0.00
+Iteration 0110, time 1.52, dt 1.88e-02, beta 1.00 - umax -0.54, umin 0.54, uavg -0.00 - vmax -0.54, vmin 0.54, vavg -0.00
+Iteration 0111, time 1.54, dt 1.90e-02, beta 1.00 - umax -0.54, umin 0.54, uavg -0.00 - vmax -0.54, vmin 0.54, vavg -0.00
+Iteration 0112, time 1.56, dt 1.91e-02, beta 1.00 - umax -0.53, umin 0.53, uavg -0.00 - vmax -0.53, vmin 0.53, vavg -0.00
+Iteration 0113, time 1.58, dt 1.92e-02, beta 1.00 - umax -0.53, umin 0.53, uavg -0.00 - vmax -0.53, vmin 0.53, vavg -0.00
+Iteration 0114, time 1.60, dt 1.94e-02, beta 1.00 - umax -0.53, umin 0.53, uavg -0.00 - vmax -0.53, vmin 0.53, vavg -0.00
+Iteration 0115, time 1.62, dt 1.95e-02, beta 1.00 - umax -0.52, umin 0.52, uavg -0.00 - vmax -0.52, vmin 0.52, vavg -0.00
+Iteration 0116, time 1.64, dt 1.97e-02, beta 1.00 - umax -0.52, umin 0.52, uavg -0.00 - vmax -0.52, vmin 0.52, vavg -0.00
+Iteration 0117, time 1.66, dt 1.98e-02, beta 1.00 - umax -0.51, umin 0.51, uavg -0.00 - vmax -0.51, vmin 0.51, vavg -0.00
+Iteration 0118, time 1.68, dt 1.99e-02, beta 1.00 - umax -0.51, umin 0.51, uavg -0.00 - vmax -0.51, vmin 0.51, vavg -0.00
+Iteration 0119, time 1.70, dt 2.01e-02, beta 1.00 - umax -0.51, umin 0.51, uavg -0.00 - vmax -0.51, vmin 0.51, vavg -0.00
+Iteration 0120, time 1.72, dt 2.02e-02, beta 1.00 - umax -0.50, umin 0.50, uavg -0.00 - vmax -0.50, vmin 0.50, vavg -0.00
+Iteration 0121, time 1.74, dt 2.04e-02, beta 1.00 - umax -0.50, umin 0.50, uavg -0.00 - vmax -0.50, vmin 0.50, vavg -0.00
+Iteration 0122, time 1.76, dt 2.06e-02, beta 1.00 - umax -0.49, umin 0.49, uavg -0.00 - vmax -0.50, vmin 0.49, vavg -0.00
+Iteration 0123, time 1.78, dt 2.07e-02, beta 1.00 - umax -0.49, umin 0.49, uavg -0.00 - vmax -0.49, vmin 0.49, vavg -0.00
+Iteration 0124, time 1.80, dt 2.09e-02, beta 1.00 - umax -0.49, umin 0.49, uavg -0.00 - vmax -0.49, vmin 0.49, vavg -0.00
+Iteration 0125, time 1.82, dt 2.10e-02, beta 1.00 - umax -0.48, umin 0.48, uavg -0.00 - vmax -0.48, vmin 0.48, vavg -0.00
+Iteration 0126, time 1.84, dt 2.12e-02, beta 1.00 - umax -0.48, umin 0.48, uavg -0.00 - vmax -0.48, vmin 0.48, vavg -0.00
+Iteration 0127, time 1.86, dt 2.14e-02, beta 1.00 - umax -0.47, umin 0.47, uavg -0.00 - vmax -0.48, vmin 0.47, vavg -0.00
+Iteration 0128, time 1.89, dt 2.15e-02, beta 1.00 - umax -0.47, umin 0.47, uavg -0.00 - vmax -0.47, vmin 0.47, vavg -0.00
+Iteration 0129, time 1.91, dt 2.17e-02, beta 1.00 - umax -0.47, umin 0.47, uavg -0.00 - vmax -0.47, vmin 0.47, vavg -0.00
+Iteration 0130, time 1.93, dt 2.19e-02, beta 1.00 - umax -0.46, umin 0.46, uavg -0.00 - vmax -0.46, vmin 0.46, vavg -0.00
+Iteration 0131, time 1.95, dt 2.20e-02, beta 1.00 - umax -0.46, umin 0.46, uavg -0.00 - vmax -0.46, vmin 0.46, vavg -0.00
+Iteration 0132, time 1.97, dt 2.22e-02, beta 1.00 - umax -0.46, umin 0.45, uavg -0.00 - vmax -0.46, vmin 0.45, vavg -0.00
+Iteration 0133, time 1.99, dt 2.24e-02, beta 1.00 - umax -0.45, umin 0.45, uavg -0.00 - vmax -0.45, vmin 0.45, vavg -0.00
+Iteration 0134, time 2.02, dt 2.26e-02, beta 1.00 - umax -0.45, umin 0.45, uavg -0.00 - vmax -0.45, vmin 0.45, vavg -0.00
+Iteration 0135, time 2.04, dt 2.28e-02, beta 1.00 - umax -0.44, umin 0.44, uavg -0.00 - vmax -0.44, vmin 0.44, vavg -0.00
+Iteration 0136, time 2.06, dt 2.30e-02, beta 1.00 - umax -0.44, umin 0.44, uavg -0.00 - vmax -0.44, vmin 0.44, vavg -0.00
+Iteration 0137, time 2.09, dt 2.32e-02, beta 1.00 - umax -0.44, umin 0.44, uavg -0.00 - vmax -0.44, vmin 0.44, vavg -0.00
+Iteration 0138, time 2.11, dt 2.33e-02, beta 1.00 - umax -0.43, umin 0.43, uavg -0.00 - vmax -0.43, vmin 0.43, vavg -0.00
+Iteration 0139, time 2.13, dt 2.35e-02, beta 1.00 - umax -0.43, umin 0.43, uavg -0.00 - vmax -0.43, vmin 0.43, vavg -0.00
+Iteration 0140, time 2.16, dt 2.37e-02, beta 1.00 - umax -0.42, umin 0.42, uavg -0.00 - vmax -0.42, vmin 0.42, vavg -0.00
+Iteration 0141, time 2.18, dt 2.39e-02, beta 1.00 - umax -0.42, umin 0.42, uavg -0.00 - vmax -0.42, vmin 0.42, vavg -0.00
+Iteration 0142, time 2.20, dt 2.42e-02, beta 1.00 - umax -0.42, umin 0.42, uavg -0.00 - vmax -0.42, vmin 0.42, vavg -0.00
+Iteration 0143, time 2.23, dt 2.44e-02, beta 1.00 - umax -0.41, umin 0.41, uavg -0.00 - vmax -0.41, vmin 0.41, vavg -0.00
+Iteration 0144, time 2.25, dt 2.46e-02, beta 1.00 - umax -0.41, umin 0.41, uavg -0.00 - vmax -0.41, vmin 0.41, vavg -0.00
+Iteration 0145, time 2.28, dt 2.48e-02, beta 1.00 - umax -0.40, umin 0.40, uavg -0.00 - vmax -0.40, vmin 0.40, vavg -0.00
+Iteration 0146, time 2.30, dt 2.50e-02, beta 1.00 - umax -0.40, umin 0.40, uavg -0.00 - vmax -0.40, vmin 0.40, vavg -0.00
+Iteration 0147, time 2.33, dt 2.52e-02, beta 1.00 - umax -0.40, umin 0.40, uavg -0.00 - vmax -0.40, vmin 0.40, vavg -0.00
+Iteration 0148, time 2.35, dt 2.55e-02, beta 1.00 - umax -0.39, umin 0.39, uavg -0.00 - vmax -0.39, vmin 0.39, vavg -0.00
+Iteration 0149, time 2.38, dt 2.57e-02, beta 1.00 - umax -0.39, umin 0.39, uavg -0.00 - vmax -0.39, vmin 0.39, vavg -0.00
+Iteration 0150, time 2.40, dt 2.59e-02, beta 1.00 - umax -0.39, umin 0.38, uavg -0.00 - vmax -0.39, vmin 0.38, vavg -0.00
+Iteration 0151, time 2.43, dt 2.62e-02, beta 1.00 - umax -0.38, umin 0.38, uavg -0.00 - vmax -0.38, vmin 0.38, vavg -0.00
+Iteration 0152, time 2.45, dt 2.64e-02, beta 1.00 - umax -0.38, umin 0.38, uavg -0.00 - vmax -0.38, vmin 0.38, vavg -0.00
+Iteration 0153, time 2.48, dt 2.66e-02, beta 1.00 - umax -0.37, umin 0.37, uavg -0.00 - vmax -0.37, vmin 0.37, vavg -0.00
+Iteration 0154, time 2.51, dt 2.69e-02, beta 1.00 - umax -0.37, umin 0.37, uavg -0.00 - vmax -0.37, vmin 0.37, vavg -0.00
+Iteration 0155, time 2.53, dt 2.71e-02, beta 1.00 - umax -0.37, umin 0.37, uavg -0.00 - vmax -0.37, vmin 0.37, vavg -0.00
+Iteration 0156, time 2.56, dt 2.74e-02, beta 1.00 - umax -0.36, umin 0.36, uavg -0.00 - vmax -0.36, vmin 0.36, vavg -0.00
+Iteration 0157, time 2.59, dt 2.77e-02, beta 1.00 - umax -0.36, umin 0.36, uavg -0.00 - vmax -0.36, vmin 0.36, vavg -0.00
+Iteration 0158, time 2.62, dt 2.79e-02, beta 1.00 - umax -0.35, umin 0.35, uavg -0.00 - vmax -0.35, vmin 0.35, vavg -0.00
+Iteration 0159, time 2.64, dt 2.82e-02, beta 1.00 - umax -0.35, umin 0.35, uavg -0.00 - vmax -0.35, vmin 0.35, vavg -0.00
+Iteration 0160, time 2.67, dt 2.85e-02, beta 1.00 - umax -0.35, umin 0.35, uavg -0.00 - vmax -0.35, vmin 0.35, vavg -0.00
+Iteration 0161, time 2.70, dt 2.87e-02, beta 1.00 - umax -0.34, umin 0.34, uavg -0.00 - vmax -0.34, vmin 0.34, vavg -0.00
+Iteration 0162, time 2.73, dt 2.90e-02, beta 1.00 - umax -0.34, umin 0.34, uavg -0.00 - vmax -0.34, vmin 0.34, vavg -0.00
+Iteration 0163, time 2.76, dt 2.93e-02, beta 1.00 - umax -0.34, umin 0.33, uavg -0.00 - vmax -0.34, vmin 0.33, vavg -0.00
+Iteration 0164, time 2.79, dt 2.96e-02, beta 1.00 - umax -0.33, umin 0.33, uavg -0.00 - vmax -0.33, vmin 0.33, vavg -0.00
+Iteration 0165, time 2.82, dt 2.99e-02, beta 1.00 - umax -0.33, umin 0.33, uavg -0.00 - vmax -0.33, vmin 0.33, vavg -0.00
+Iteration 0166, time 2.85, dt 3.02e-02, beta 1.00 - umax -0.32, umin 0.32, uavg -0.00 - vmax -0.32, vmin 0.32, vavg -0.00
+Iteration 0167, time 2.88, dt 3.05e-02, beta 1.00 - umax -0.32, umin 0.32, uavg -0.00 - vmax -0.32, vmin 0.32, vavg -0.00
+Iteration 0168, time 2.91, dt 3.08e-02, beta 1.00 - umax -0.32, umin 0.32, uavg -0.00 - vmax -0.32, vmin 0.32, vavg -0.00
+Iteration 0169, time 2.94, dt 3.11e-02, beta 1.00 - umax -0.31, umin 0.31, uavg -0.00 - vmax -0.31, vmin 0.31, vavg -0.00
+Iteration 0170, time 2.97, dt 3.14e-02, beta 1.00 - umax -0.31, umin 0.31, uavg -0.00 - vmax -0.31, vmin 0.31, vavg -0.00
+Iteration 0171, time 3.00, dt 3.18e-02, beta 1.00 - umax -0.31, umin 0.30, uavg -0.00 - vmax -0.31, vmin 0.30, vavg -0.00
+Iteration 0172, time 3.03, dt 3.21e-02, beta 1.00 - umax -0.30, umin 0.30, uavg -0.00 - vmax -0.30, vmin 0.30, vavg -0.00
+Iteration 0173, time 3.07, dt 3.24e-02, beta 1.00 - umax -0.30, umin 0.30, uavg -0.00 - vmax -0.30, vmin 0.30, vavg -0.00
+Iteration 0174, time 3.10, dt 3.28e-02, beta 1.00 - umax -0.29, umin 0.29, uavg -0.00 - vmax -0.29, vmin 0.29, vavg -0.00
+Iteration 0175, time 3.13, dt 3.31e-02, beta 1.00 - umax -0.29, umin 0.29, uavg -0.00 - vmax -0.29, vmin 0.29, vavg -0.00
+Iteration 0176, time 3.16, dt 3.35e-02, beta 1.00 - umax -0.29, umin 0.29, uavg -0.00 - vmax -0.29, vmin 0.29, vavg -0.00
+Iteration 0177, time 3.20, dt 3.38e-02, beta 1.00 - umax -0.28, umin 0.28, uavg -0.00 - vmax -0.28, vmin 0.28, vavg -0.00
+Iteration 0178, time 3.23, dt 3.42e-02, beta 1.00 - umax -0.28, umin 0.28, uavg -0.00 - vmax -0.28, vmin 0.28, vavg -0.00
+Iteration 0179, time 3.27, dt 3.46e-02, beta 1.00 - umax -0.28, umin 0.27, uavg -0.00 - vmax -0.28, vmin 0.27, vavg -0.00
+Iteration 0180, time 3.30, dt 3.49e-02, beta 1.00 - umax -0.27, umin 0.27, uavg -0.00 - vmax -0.27, vmin 0.27, vavg -0.00
+Iteration 0181, time 3.34, dt 3.53e-02, beta 1.00 - umax -0.27, umin 0.27, uavg -0.00 - vmax -0.27, vmin 0.27, vavg -0.00
+Iteration 0182, time 3.37, dt 3.57e-02, beta 1.00 - umax -0.26, umin 0.26, uavg -0.00 - vmax -0.26, vmin 0.26, vavg -0.00
+Iteration 0183, time 3.41, dt 3.61e-02, beta 1.00 - umax -0.26, umin 0.26, uavg -0.00 - vmax -0.26, vmin 0.26, vavg -0.00
+Iteration 0184, time 3.44, dt 3.65e-02, beta 1.00 - umax -0.26, umin 0.26, uavg -0.00 - vmax -0.26, vmin 0.26, vavg -0.00
+Iteration 0185, time 3.48, dt 3.69e-02, beta 1.00 - umax -0.25, umin 0.25, uavg -0.00 - vmax -0.25, vmin 0.25, vavg -0.00
+Iteration 0186, time 3.52, dt 3.73e-02, beta 1.00 - umax -0.25, umin 0.25, uavg -0.00 - vmax -0.25, vmin 0.25, vavg -0.00
+Iteration 0187, time 3.55, dt 3.77e-02, beta 1.00 - umax -0.25, umin 0.25, uavg -0.00 - vmax -0.25, vmin 0.25, vavg -0.00
+Iteration 0188, time 3.59, dt 3.81e-02, beta 1.00 - umax -0.24, umin 0.24, uavg -0.00 - vmax -0.24, vmin 0.24, vavg -0.00
+Iteration 0189, time 3.63, dt 3.85e-02, beta 1.00 - umax -0.24, umin 0.24, uavg -0.00 - vmax -0.24, vmin 0.24, vavg -0.00
+Iteration 0190, time 3.67, dt 3.90e-02, beta 1.00 - umax -0.24, umin 0.23, uavg -0.00 - vmax -0.24, vmin 0.23, vavg -0.00
+Iteration 0191, time 3.71, dt 3.94e-02, beta 1.00 - umax -0.23, umin 0.23, uavg -0.00 - vmax -0.23, vmin 0.23, vavg -0.00
+Iteration 0192, time 3.75, dt 3.98e-02, beta 1.00 - umax -0.23, umin 0.23, uavg -0.00 - vmax -0.23, vmin 0.23, vavg -0.00
+Iteration 0193, time 3.79, dt 4.03e-02, beta 1.00 - umax -0.23, umin 0.22, uavg -0.00 - vmax -0.23, vmin 0.22, vavg -0.00
+Iteration 0194, time 3.83, dt 4.07e-02, beta 1.00 - umax -0.22, umin 0.22, uavg -0.00 - vmax -0.22, vmin 0.22, vavg -0.00
+Iteration 0195, time 3.87, dt 4.12e-02, beta 1.00 - umax -0.22, umin 0.22, uavg -0.00 - vmax -0.22, vmin 0.22, vavg -0.00
+Iteration 0196, time 3.91, dt 4.17e-02, beta 1.00 - umax -0.21, umin 0.21, uavg -0.00 - vmax -0.21, vmin 0.21, vavg -0.00
+Iteration 0197, time 3.95, dt 4.21e-02, beta 1.00 - umax -0.21, umin 0.21, uavg -0.00 - vmax -0.21, vmin 0.21, vavg -0.00
+Iteration 0198, time 3.99, dt 4.26e-02, beta 1.00 - umax -0.21, umin 0.21, uavg -0.00 - vmax -0.21, vmin 0.21, vavg -0.00
+Iteration 0199, time 4.03, dt 4.31e-02, beta 1.00 - umax -0.20, umin 0.20, uavg -0.00 - vmax -0.20, vmin 0.20, vavg -0.00
+Iteration 0200, time 4.08, dt 4.36e-02, beta 1.00 - umax -0.20, umin 0.20, uavg -0.00 - vmax -0.20, vmin 0.20, vavg -0.00
+Iteration 0201, time 4.12, dt 4.41e-02, beta 1.00 - umax -0.20, umin 0.20, uavg -0.00 - vmax -0.20, vmin 0.20, vavg -0.00
+Iteration 0202, time 4.16, dt 4.45e-02, beta 1.00 - umax -0.19, umin 0.19, uavg -0.00 - vmax -0.19, vmin 0.19, vavg -0.00
+Iteration 0203, time 4.21, dt 4.50e-02, beta 1.00 - umax -0.19, umin 0.19, uavg -0.00 - vmax -0.19, vmin 0.19, vavg -0.00
+Iteration 0204, time 4.25, dt 4.55e-02, beta 1.00 - umax -0.19, umin 0.19, uavg -0.00 - vmax -0.19, vmin 0.19, vavg -0.00
+Iteration 0205, time 4.30, dt 4.60e-02, beta 1.00 - umax -0.18, umin 0.18, uavg -0.00 - vmax -0.18, vmin 0.18, vavg -0.00
+Iteration 0206, time 4.35, dt 4.66e-02, beta 1.00 - umax -0.18, umin 0.18, uavg -0.00 - vmax -0.18, vmin 0.18, vavg -0.00
+Iteration 0207, time 4.39, dt 4.71e-02, beta 1.00 - umax -0.18, umin 0.18, uavg -0.00 - vmax -0.18, vmin 0.18, vavg -0.00
+Iteration 0208, time 4.44, dt 4.76e-02, beta 1.00 - umax -0.17, umin 0.17, uavg -0.00 - vmax -0.17, vmin 0.17, vavg -0.00
+Iteration 0209, time 4.49, dt 4.81e-02, beta 1.00 - umax -0.17, umin 0.17, uavg -0.00 - vmax -0.17, vmin 0.17, vavg -0.00
+Iteration 0210, time 4.54, dt 4.86e-02, beta 1.00 - umax -0.17, umin 0.17, uavg -0.00 - vmax -0.17, vmin 0.17, vavg -0.00
+Iteration 0211, time 4.58, dt 4.91e-02, beta 1.00 - umax -0.17, umin 0.16, uavg -0.00 - vmax -0.17, vmin 0.16, vavg -0.00
+Iteration 0212, time 4.63, dt 4.97e-02, beta 1.00 - umax -0.16, umin 0.16, uavg -0.00 - vmax -0.16, vmin 0.16, vavg -0.00
+Iteration 0213, time 4.68, dt 5.02e-02, beta 1.00 - umax -0.16, umin 0.16, uavg -0.00 - vmax -0.16, vmin 0.16, vavg -0.00
+Iteration 0214, time 4.73, dt 5.07e-02, beta 1.00 - umax -0.16, umin 0.15, uavg -0.00 - vmax -0.16, vmin 0.15, vavg -0.00
+Iteration 0215, time 4.78, dt 5.12e-02, beta 1.00 - umax -0.15, umin 0.15, uavg -0.00 - vmax -0.15, vmin 0.15, vavg -0.00
+Iteration 0216, time 4.83, dt 5.17e-02, beta 1.00 - umax -0.15, umin 0.15, uavg -0.00 - vmax -0.15, vmin 0.15, vavg -0.00
+Iteration 0217, time 4.89, dt 5.23e-02, beta 1.00 - umax -0.15, umin 0.15, uavg -0.00 - vmax -0.15, vmin 0.15, vavg -0.00
+Iteration 0218, time 4.94, dt 5.28e-02, beta 1.00 - umax -0.14, umin 0.14, uavg -0.00 - vmax -0.14, vmin 0.14, vavg -0.00
+Iteration 0219, time 4.99, dt 5.33e-02, beta 1.00 - umax -0.14, umin 0.14, uavg -0.00 - vmax -0.14, vmin 0.14, vavg -0.00
+END
+tend:  4.991649620135077
+Temporal scheme:  RK
+RK scheme:  kutta_RK3   Consistent
+f:  0.1
+Number of iterations:  220
+Average dt:  0.02293160590679102
+MSE:  2.792819049858397e-07
+EAE: 0.0013162263010195116
+L2E: 0.5496691281208457
+Iteration 0000, time 0.00, dt 2.10e-02, beta 1.00 - umax -0.98, umin 0.98, uavg 0.00 - vmax -0.98, vmin 0.98, vavg 0.00
+Iteration 0001, time 0.02, dt 2.12e-02, beta 1.00 - umax -0.97, umin 0.97, uavg -0.00 - vmax -0.97, vmin 0.97, vavg -0.00
+Iteration 0002, time 0.04, dt 2.14e-02, beta 1.00 - umax -0.96, umin 0.96, uavg -0.00 - vmax -0.96, vmin 0.96, vavg -0.00
+Iteration 0003, time 0.06, dt 2.16e-02, beta 1.00 - umax -0.96, umin 0.96, uavg -0.00 - vmax -0.96, vmin 0.96, vavg -0.00
+Iteration 0004, time 0.09, dt 2.17e-02, beta 1.00 - umax -0.95, umin 0.95, uavg -0.00 - vmax -0.95, vmin 0.95, vavg -0.00
+Iteration 0005, time 0.11, dt 2.19e-02, beta 1.00 - umax -0.94, umin 0.94, uavg -0.00 - vmax -0.94, vmin 0.94, vavg -0.00
+Iteration 0006, time 0.13, dt 2.21e-02, beta 1.00 - umax -0.93, umin 0.93, uavg -0.00 - vmax -0.93, vmin 0.93, vavg -0.00
+Iteration 0007, time 0.15, dt 2.23e-02, beta 1.00 - umax -0.92, umin 0.93, uavg -0.00 - vmax -0.92, vmin 0.92, vavg -0.00
+Iteration 0008, time 0.17, dt 2.25e-02, beta 1.00 - umax -0.92, umin 0.92, uavg -0.00 - vmax -0.92, vmin 0.92, vavg -0.00
+Iteration 0009, time 0.20, dt 2.27e-02, beta 1.00 - umax -0.91, umin 0.91, uavg -0.00 - vmax -0.91, vmin 0.91, vavg -0.00
+Iteration 0010, time 0.22, dt 2.29e-02, beta 1.00 - umax -0.90, umin 0.90, uavg -0.00 - vmax -0.90, vmin 0.90, vavg -0.00
+Iteration 0011, time 0.24, dt 2.31e-02, beta 1.00 - umax -0.89, umin 0.89, uavg -0.00 - vmax -0.89, vmin 0.89, vavg -0.00
+Iteration 0012, time 0.26, dt 2.33e-02, beta 1.00 - umax -0.88, umin 0.89, uavg -0.00 - vmax -0.88, vmin 0.88, vavg -0.00
+Iteration 0013, time 0.29, dt 2.35e-02, beta 1.00 - umax -0.88, umin 0.88, uavg -0.00 - vmax -0.88, vmin 0.88, vavg -0.00
+Iteration 0014, time 0.31, dt 2.37e-02, beta 1.00 - umax -0.87, umin 0.87, uavg -0.00 - vmax -0.87, vmin 0.87, vavg -0.00
+Iteration 0015, time 0.33, dt 2.39e-02, beta 1.00 - umax -0.86, umin 0.86, uavg -0.00 - vmax -0.86, vmin 0.86, vavg -0.00
+Iteration 0016, time 0.36, dt 2.42e-02, beta 1.00 - umax -0.85, umin 0.85, uavg -0.00 - vmax -0.85, vmin 0.85, vavg -0.00
+Iteration 0017, time 0.38, dt 2.44e-02, beta 1.00 - umax -0.85, umin 0.85, uavg -0.00 - vmax -0.84, vmin 0.84, vavg -0.00
+Iteration 0018, time 0.41, dt 2.46e-02, beta 1.00 - umax -0.84, umin 0.84, uavg -0.00 - vmax -0.84, vmin 0.84, vavg -0.00
+Iteration 0019, time 0.43, dt 2.48e-02, beta 1.00 - umax -0.83, umin 0.83, uavg -0.00 - vmax -0.83, vmin 0.83, vavg -0.00
+Iteration 0020, time 0.46, dt 2.51e-02, beta 1.00 - umax -0.82, umin 0.82, uavg -0.00 - vmax -0.82, vmin 0.82, vavg -0.00
+Iteration 0021, time 0.48, dt 2.53e-02, beta 1.00 - umax -0.81, umin 0.81, uavg -0.00 - vmax -0.81, vmin 0.81, vavg -0.00
+Iteration 0022, time 0.51, dt 2.56e-02, beta 1.00 - umax -0.81, umin 0.81, uavg -0.00 - vmax -0.81, vmin 0.80, vavg -0.00
+Iteration 0023, time 0.53, dt 2.58e-02, beta 1.00 - umax -0.80, umin 0.80, uavg -0.00 - vmax -0.80, vmin 0.80, vavg -0.00
+Iteration 0024, time 0.56, dt 2.61e-02, beta 1.00 - umax -0.79, umin 0.79, uavg -0.00 - vmax -0.79, vmin 0.79, vavg -0.00
+Iteration 0025, time 0.58, dt 2.64e-02, beta 1.00 - umax -0.78, umin 0.78, uavg -0.00 - vmax -0.78, vmin 0.78, vavg -0.00
+Iteration 0026, time 0.61, dt 2.66e-02, beta 1.00 - umax -0.77, umin 0.77, uavg -0.00 - vmax -0.77, vmin 0.77, vavg -0.00
+Iteration 0027, time 0.64, dt 2.69e-02, beta 1.00 - umax -0.77, umin 0.77, uavg -0.00 - vmax -0.77, vmin 0.76, vavg -0.00
+Iteration 0028, time 0.66, dt 2.72e-02, beta 1.00 - umax -0.76, umin 0.76, uavg -0.00 - vmax -0.76, vmin 0.76, vavg -0.00
+Iteration 0029, time 0.69, dt 2.75e-02, beta 1.00 - umax -0.75, umin 0.75, uavg -0.00 - vmax -0.75, vmin 0.75, vavg -0.00
+Iteration 0030, time 0.72, dt 2.78e-02, beta 1.00 - umax -0.74, umin 0.74, uavg -0.00 - vmax -0.74, vmin 0.74, vavg -0.00
+Iteration 0031, time 0.75, dt 2.81e-02, beta 1.00 - umax -0.73, umin 0.73, uavg -0.00 - vmax -0.73, vmin 0.73, vavg -0.00
+Iteration 0032, time 0.78, dt 2.84e-02, beta 1.00 - umax -0.73, umin 0.73, uavg -0.00 - vmax -0.73, vmin 0.73, vavg -0.00
+Iteration 0033, time 0.80, dt 2.87e-02, beta 1.00 - umax -0.72, umin 0.72, uavg -0.00 - vmax -0.72, vmin 0.72, vavg -0.00
+Iteration 0034, time 0.83, dt 2.90e-02, beta 1.00 - umax -0.71, umin 0.71, uavg -0.00 - vmax -0.71, vmin 0.71, vavg -0.00
+Iteration 0035, time 0.86, dt 2.93e-02, beta 1.00 - umax -0.70, umin 0.70, uavg -0.00 - vmax -0.70, vmin 0.70, vavg -0.00
+Iteration 0036, time 0.89, dt 2.96e-02, beta 1.00 - umax -0.69, umin 0.69, uavg -0.00 - vmax -0.69, vmin 0.69, vavg -0.00
+Iteration 0037, time 0.92, dt 3.00e-02, beta 1.00 - umax -0.69, umin 0.69, uavg -0.00 - vmax -0.69, vmin 0.69, vavg -0.00
+Iteration 0038, time 0.95, dt 3.03e-02, beta 1.00 - umax -0.68, umin 0.68, uavg -0.00 - vmax -0.68, vmin 0.68, vavg -0.00
+Iteration 0039, time 0.98, dt 3.07e-02, beta 1.00 - umax -0.67, umin 0.67, uavg -0.00 - vmax -0.67, vmin 0.67, vavg -0.00
+Iteration 0040, time 1.01, dt 3.10e-02, beta 1.00 - umax -0.66, umin 0.66, uavg -0.00 - vmax -0.66, vmin 0.66, vavg -0.00
+Iteration 0041, time 1.04, dt 3.14e-02, beta 1.00 - umax -0.65, umin 0.65, uavg -0.00 - vmax -0.65, vmin 0.65, vavg -0.00
+Iteration 0042, time 1.07, dt 3.18e-02, beta 1.00 - umax -0.65, umin 0.65, uavg -0.00 - vmax -0.65, vmin 0.65, vavg -0.00
+Iteration 0043, time 1.11, dt 3.22e-02, beta 1.00 - umax -0.64, umin 0.64, uavg -0.00 - vmax -0.64, vmin 0.64, vavg -0.00
+Iteration 0044, time 1.14, dt 3.26e-02, beta 1.00 - umax -0.63, umin 0.63, uavg -0.00 - vmax -0.63, vmin 0.63, vavg -0.00
+Iteration 0045, time 1.17, dt 3.30e-02, beta 1.00 - umax -0.62, umin 0.62, uavg -0.00 - vmax -0.62, vmin 0.62, vavg -0.00
+Iteration 0046, time 1.20, dt 3.34e-02, beta 1.00 - umax -0.61, umin 0.61, uavg -0.00 - vmax -0.61, vmin 0.61, vavg -0.00
+Iteration 0047, time 1.24, dt 3.38e-02, beta 1.00 - umax -0.61, umin 0.61, uavg -0.00 - vmax -0.61, vmin 0.61, vavg -0.00
+Iteration 0048, time 1.27, dt 3.42e-02, beta 1.00 - umax -0.60, umin 0.60, uavg -0.00 - vmax -0.60, vmin 0.60, vavg -0.00
+Iteration 0049, time 1.30, dt 3.47e-02, beta 1.00 - umax -0.59, umin 0.59, uavg -0.00 - vmax -0.59, vmin 0.59, vavg -0.00
+Iteration 0050, time 1.34, dt 3.51e-02, beta 1.00 - umax -0.58, umin 0.58, uavg -0.00 - vmax -0.58, vmin 0.58, vavg -0.00
+Iteration 0051, time 1.37, dt 3.56e-02, beta 1.00 - umax -0.57, umin 0.57, uavg -0.00 - vmax -0.58, vmin 0.57, vavg -0.00
+Iteration 0052, time 1.41, dt 3.61e-02, beta 1.00 - umax -0.57, umin 0.57, uavg -0.00 - vmax -0.57, vmin 0.57, vavg -0.00
+Iteration 0053, time 1.45, dt 3.66e-02, beta 1.00 - umax -0.56, umin 0.56, uavg -0.00 - vmax -0.56, vmin 0.56, vavg -0.00
+Iteration 0054, time 1.48, dt 3.71e-02, beta 1.00 - umax -0.55, umin 0.55, uavg -0.00 - vmax -0.55, vmin 0.55, vavg -0.00
+Iteration 0055, time 1.52, dt 3.76e-02, beta 1.00 - umax -0.54, umin 0.54, uavg -0.00 - vmax -0.54, vmin 0.54, vavg -0.00
+Iteration 0056, time 1.56, dt 3.81e-02, beta 1.00 - umax -0.54, umin 0.54, uavg -0.00 - vmax -0.54, vmin 0.53, vavg -0.00
+Iteration 0057, time 1.59, dt 3.87e-02, beta 1.00 - umax -0.53, umin 0.53, uavg -0.00 - vmax -0.53, vmin 0.53, vavg -0.00
+Iteration 0058, time 1.63, dt 3.92e-02, beta 1.00 - umax -0.52, umin 0.52, uavg -0.00 - vmax -0.52, vmin 0.52, vavg -0.00
+Iteration 0059, time 1.67, dt 3.98e-02, beta 1.00 - umax -0.51, umin 0.51, uavg -0.00 - vmax -0.51, vmin 0.51, vavg -0.00
+Iteration 0060, time 1.71, dt 4.04e-02, beta 1.00 - umax -0.50, umin 0.50, uavg -0.00 - vmax -0.50, vmin 0.50, vavg -0.00
+Iteration 0061, time 1.75, dt 4.10e-02, beta 1.00 - umax -0.50, umin 0.50, uavg -0.00 - vmax -0.50, vmin 0.50, vavg -0.00
+Iteration 0062, time 1.79, dt 4.16e-02, beta 1.00 - umax -0.49, umin 0.49, uavg -0.00 - vmax -0.49, vmin 0.49, vavg -0.00
+Iteration 0063, time 1.84, dt 4.23e-02, beta 1.00 - umax -0.48, umin 0.48, uavg -0.00 - vmax -0.48, vmin 0.48, vavg -0.00
+Iteration 0064, time 1.88, dt 4.29e-02, beta 1.00 - umax -0.47, umin 0.47, uavg -0.00 - vmax -0.47, vmin 0.47, vavg -0.00
+Iteration 0065, time 1.92, dt 4.36e-02, beta 1.00 - umax -0.46, umin 0.46, uavg -0.00 - vmax -0.47, vmin 0.46, vavg -0.00
+Iteration 0066, time 1.96, dt 4.43e-02, beta 1.00 - umax -0.46, umin 0.46, uavg -0.00 - vmax -0.46, vmin 0.46, vavg -0.00
+Iteration 0067, time 2.01, dt 4.50e-02, beta 1.00 - umax -0.45, umin 0.45, uavg -0.00 - vmax -0.45, vmin 0.45, vavg -0.00
+Iteration 0068, time 2.05, dt 4.58e-02, beta 1.00 - umax -0.44, umin 0.44, uavg -0.00 - vmax -0.44, vmin 0.44, vavg -0.00
+Iteration 0069, time 2.10, dt 4.65e-02, beta 1.00 - umax -0.43, umin 0.43, uavg -0.00 - vmax -0.43, vmin 0.43, vavg -0.00
+Iteration 0070, time 2.15, dt 4.73e-02, beta 1.00 - umax -0.43, umin 0.43, uavg -0.00 - vmax -0.43, vmin 0.42, vavg -0.00
+Iteration 0071, time 2.19, dt 4.81e-02, beta 1.00 - umax -0.42, umin 0.42, uavg -0.00 - vmax -0.42, vmin 0.42, vavg -0.00
+Iteration 0072, time 2.24, dt 4.90e-02, beta 1.00 - umax -0.41, umin 0.41, uavg -0.00 - vmax -0.41, vmin 0.41, vavg -0.00
+Iteration 0073, time 2.29, dt 4.98e-02, beta 1.00 - umax -0.40, umin 0.40, uavg -0.00 - vmax -0.40, vmin 0.40, vavg -0.00
+Iteration 0074, time 2.34, dt 5.07e-02, beta 1.00 - umax -0.39, umin 0.39, uavg -0.00 - vmax -0.39, vmin 0.39, vavg -0.00
+Iteration 0075, time 2.39, dt 5.16e-02, beta 1.00 - umax -0.39, umin 0.39, uavg -0.00 - vmax -0.39, vmin 0.39, vavg -0.00
+Iteration 0076, time 2.44, dt 5.26e-02, beta 1.00 - umax -0.38, umin 0.38, uavg -0.00 - vmax -0.38, vmin 0.38, vavg -0.00
+Iteration 0077, time 2.50, dt 5.35e-02, beta 1.00 - umax -0.37, umin 0.37, uavg -0.00 - vmax -0.37, vmin 0.37, vavg -0.00
+Iteration 0078, time 2.55, dt 5.46e-02, beta 1.00 - umax -0.36, umin 0.36, uavg -0.00 - vmax -0.36, vmin 0.36, vavg -0.00
+Iteration 0079, time 2.60, dt 5.56e-02, beta 1.00 - umax -0.36, umin 0.36, uavg -0.00 - vmax -0.36, vmin 0.36, vavg -0.00
+Iteration 0080, time 2.66, dt 5.67e-02, beta 1.00 - umax -0.35, umin 0.35, uavg -0.00 - vmax -0.35, vmin 0.35, vavg -0.00
+Iteration 0081, time 2.72, dt 5.78e-02, beta 1.00 - umax -0.34, umin 0.34, uavg -0.00 - vmax -0.34, vmin 0.34, vavg -0.00
+Iteration 0082, time 2.77, dt 5.89e-02, beta 1.00 - umax -0.33, umin 0.33, uavg -0.00 - vmax -0.33, vmin 0.33, vavg -0.00
+Iteration 0083, time 2.83, dt 6.01e-02, beta 1.00 - umax -0.33, umin 0.33, uavg -0.00 - vmax -0.33, vmin 0.33, vavg -0.00
+Iteration 0084, time 2.89, dt 6.13e-02, beta 1.00 - umax -0.32, umin 0.32, uavg -0.00 - vmax -0.32, vmin 0.32, vavg -0.00
+Iteration 0085, time 2.95, dt 6.25e-02, beta 1.00 - umax -0.31, umin 0.31, uavg -0.00 - vmax -0.31, vmin 0.31, vavg -0.00
+Iteration 0086, time 3.02, dt 6.38e-02, beta 1.00 - umax -0.30, umin 0.30, uavg -0.00 - vmax -0.30, vmin 0.30, vavg -0.00
+Iteration 0087, time 3.08, dt 6.52e-02, beta 1.00 - umax -0.30, umin 0.30, uavg -0.00 - vmax -0.30, vmin 0.30, vavg -0.00
+Iteration 0088, time 3.15, dt 6.65e-02, beta 1.00 - umax -0.29, umin 0.29, uavg -0.00 - vmax -0.29, vmin 0.29, vavg -0.00
+Iteration 0089, time 3.21, dt 6.80e-02, beta 1.00 - umax -0.28, umin 0.28, uavg -0.00 - vmax -0.28, vmin 0.28, vavg -0.00
+Iteration 0090, time 3.28, dt 6.94e-02, beta 1.00 - umax -0.27, umin 0.27, uavg -0.00 - vmax -0.27, vmin 0.27, vavg -0.00
+Iteration 0091, time 3.35, dt 7.09e-02, beta 1.00 - umax -0.27, umin 0.27, uavg -0.00 - vmax -0.27, vmin 0.27, vavg -0.00
+Iteration 0092, time 3.42, dt 7.25e-02, beta 1.00 - umax -0.26, umin 0.26, uavg -0.00 - vmax -0.26, vmin 0.26, vavg -0.00
+Iteration 0093, time 3.49, dt 7.41e-02, beta 1.00 - umax -0.25, umin 0.25, uavg -0.00 - vmax -0.25, vmin 0.25, vavg -0.00
+Iteration 0094, time 3.57, dt 7.57e-02, beta 1.00 - umax -0.25, umin 0.24, uavg -0.00 - vmax -0.25, vmin 0.24, vavg -0.00
+Iteration 0095, time 3.64, dt 7.74e-02, beta 1.00 - umax -0.24, umin 0.24, uavg -0.00 - vmax -0.24, vmin 0.24, vavg -0.00
+Iteration 0096, time 3.72, dt 7.91e-02, beta 1.00 - umax -0.23, umin 0.23, uavg -0.00 - vmax -0.23, vmin 0.23, vavg -0.00
+Iteration 0097, time 3.80, dt 8.09e-02, beta 1.00 - umax -0.22, umin 0.22, uavg -0.00 - vmax -0.22, vmin 0.22, vavg -0.00
+Iteration 0098, time 3.88, dt 8.27e-02, beta 1.00 - umax -0.22, umin 0.22, uavg -0.00 - vmax -0.22, vmin 0.22, vavg -0.00
+Iteration 0099, time 3.96, dt 8.46e-02, beta 1.00 - umax -0.21, umin 0.21, uavg -0.00 - vmax -0.21, vmin 0.21, vavg -0.00
+Iteration 0100, time 4.05, dt 8.65e-02, beta 1.00 - umax -0.20, umin 0.20, uavg -0.00 - vmax -0.20, vmin 0.20, vavg -0.00
+Iteration 0101, time 4.13, dt 8.84e-02, beta 1.00 - umax -0.20, umin 0.20, uavg -0.00 - vmax -0.20, vmin 0.20, vavg -0.00
+Iteration 0102, time 4.22, dt 9.04e-02, beta 1.00 - umax -0.19, umin 0.19, uavg -0.00 - vmax -0.19, vmin 0.19, vavg -0.00
+Iteration 0103, time 4.31, dt 9.24e-02, beta 1.00 - umax -0.18, umin 0.18, uavg -0.00 - vmax -0.18, vmin 0.18, vavg -0.00
+Iteration 0104, time 4.40, dt 9.44e-02, beta 1.00 - umax -0.18, umin 0.18, uavg -0.00 - vmax -0.18, vmin 0.18, vavg -0.00
+Iteration 0105, time 4.50, dt 9.64e-02, beta 1.00 - umax -0.17, umin 0.17, uavg -0.00 - vmax -0.17, vmin 0.17, vavg -0.00
+Iteration 0106, time 4.60, dt 9.85e-02, beta 1.00 - umax -0.16, umin 0.16, uavg -0.00 - vmax -0.16, vmin 0.16, vavg -0.00
+Iteration 0107, time 4.69, dt 1.01e-01, beta 1.00 - umax -0.16, umin 0.16, uavg -0.00 - vmax -0.16, vmin 0.16, vavg -0.00
+Iteration 0108, time 4.79, dt 1.03e-01, beta 1.00 - umax -0.15, umin 0.15, uavg -0.00 - vmax -0.15, vmin 0.15, vavg -0.00
+Iteration 0109, time 4.90, dt 1.05e-01, beta 1.00 - umax -0.15, umin 0.15, uavg -0.00 - vmax -0.15, vmin 0.15, vavg -0.00
+END
+tend:  4.897123441289879
+Temporal scheme:  RK
+RK scheme:  kutta_RK3   Consistent
+f:  0.2
+Number of iterations:  110
+Average dt:  0.04547146244664678
+MSE:  2.703873920650306e-07
+EAE: 0.0013046458514988993
+L2E: 0.5589683085535953
+Iteration 0000, time 0.00, dt 3.16e-02, beta 1.00 - umax -0.98, umin 0.98, uavg 0.00 - vmax -0.98, vmin 0.98, vavg 0.00
+Iteration 0001, time 0.03, dt 3.19e-02, beta 1.00 - umax -0.97, umin 0.97, uavg -0.00 - vmax -0.97, vmin 0.97, vavg -0.00
+Iteration 0002, time 0.06, dt 3.23e-02, beta 1.00 - umax -0.96, umin 0.96, uavg -0.00 - vmax -0.96, vmin 0.96, vavg -0.00
+Iteration 0003, time 0.10, dt 3.27e-02, beta 1.00 - umax -0.94, umin 0.95, uavg -0.00 - vmax -0.94, vmin 0.94, vavg -0.00
+Iteration 0004, time 0.13, dt 3.32e-02, beta 1.00 - umax -0.93, umin 0.93, uavg -0.00 - vmax -0.93, vmin 0.93, vavg -0.00
+Iteration 0005, time 0.16, dt 3.36e-02, beta 1.00 - umax -0.92, umin 0.92, uavg -0.00 - vmax -0.92, vmin 0.92, vavg -0.00
+Iteration 0006, time 0.20, dt 3.40e-02, beta 1.00 - umax -0.91, umin 0.91, uavg -0.00 - vmax -0.91, vmin 0.91, vavg -0.00
+Iteration 0007, time 0.23, dt 3.45e-02, beta 1.00 - umax -0.90, umin 0.90, uavg -0.00 - vmax -0.90, vmin 0.90, vavg -0.00
+Iteration 0008, time 0.26, dt 3.49e-02, beta 1.00 - umax -0.89, umin 0.89, uavg -0.00 - vmax -0.89, vmin 0.89, vavg -0.00
+Iteration 0009, time 0.30, dt 3.54e-02, beta 1.00 - umax -0.87, umin 0.87, uavg -0.00 - vmax -0.87, vmin 0.87, vavg -0.00
+Iteration 0010, time 0.33, dt 3.59e-02, beta 1.00 - umax -0.86, umin 0.86, uavg -0.00 - vmax -0.86, vmin 0.86, vavg -0.00
+Iteration 0011, time 0.37, dt 3.64e-02, beta 1.00 - umax -0.85, umin 0.85, uavg -0.00 - vmax -0.85, vmin 0.85, vavg -0.00
+Iteration 0012, time 0.41, dt 3.69e-02, beta 1.00 - umax -0.84, umin 0.84, uavg -0.00 - vmax -0.84, vmin 0.84, vavg -0.00
+Iteration 0013, time 0.44, dt 3.74e-02, beta 1.00 - umax -0.83, umin 0.83, uavg -0.00 - vmax -0.83, vmin 0.83, vavg -0.00
+Iteration 0014, time 0.48, dt 3.80e-02, beta 1.00 - umax -0.81, umin 0.81, uavg -0.00 - vmax -0.81, vmin 0.81, vavg -0.00
+Iteration 0015, time 0.52, dt 3.85e-02, beta 1.00 - umax -0.80, umin 0.80, uavg -0.00 - vmax -0.80, vmin 0.80, vavg -0.00
+Iteration 0016, time 0.56, dt 3.91e-02, beta 1.00 - umax -0.79, umin 0.79, uavg -0.00 - vmax -0.79, vmin 0.79, vavg -0.00
+Iteration 0017, time 0.60, dt 3.97e-02, beta 1.00 - umax -0.78, umin 0.78, uavg -0.00 - vmax -0.78, vmin 0.78, vavg -0.00
+Iteration 0018, time 0.64, dt 4.03e-02, beta 1.00 - umax -0.77, umin 0.77, uavg -0.00 - vmax -0.77, vmin 0.77, vavg -0.00
+Iteration 0019, time 0.68, dt 4.10e-02, beta 1.00 - umax -0.75, umin 0.75, uavg -0.00 - vmax -0.75, vmin 0.75, vavg -0.00
+Iteration 0020, time 0.72, dt 4.16e-02, beta 1.00 - umax -0.74, umin 0.74, uavg -0.00 - vmax -0.74, vmin 0.74, vavg -0.00
+Iteration 0021, time 0.76, dt 4.23e-02, beta 1.00 - umax -0.73, umin 0.73, uavg -0.00 - vmax -0.73, vmin 0.73, vavg -0.00
+Iteration 0022, time 0.80, dt 4.30e-02, beta 1.00 - umax -0.72, umin 0.72, uavg -0.00 - vmax -0.72, vmin 0.72, vavg -0.00
+Iteration 0023, time 0.84, dt 4.37e-02, beta 1.00 - umax -0.71, umin 0.71, uavg -0.00 - vmax -0.71, vmin 0.71, vavg -0.00
+Iteration 0024, time 0.89, dt 4.44e-02, beta 1.00 - umax -0.69, umin 0.69, uavg -0.00 - vmax -0.69, vmin 0.69, vavg -0.00
+Iteration 0025, time 0.93, dt 4.52e-02, beta 1.00 - umax -0.68, umin 0.68, uavg -0.00 - vmax -0.68, vmin 0.68, vavg -0.00
+Iteration 0026, time 0.98, dt 4.59e-02, beta 1.00 - umax -0.67, umin 0.67, uavg -0.00 - vmax -0.67, vmin 0.67, vavg -0.00
+Iteration 0027, time 1.02, dt 4.68e-02, beta 1.00 - umax -0.66, umin 0.66, uavg -0.00 - vmax -0.66, vmin 0.66, vavg -0.00
+Iteration 0028, time 1.07, dt 4.76e-02, beta 1.00 - umax -0.65, umin 0.65, uavg -0.00 - vmax -0.65, vmin 0.65, vavg -0.00
+Iteration 0029, time 1.12, dt 4.85e-02, beta 1.00 - umax -0.63, umin 0.64, uavg -0.00 - vmax -0.64, vmin 0.63, vavg -0.00
+Iteration 0030, time 1.17, dt 4.94e-02, beta 1.00 - umax -0.62, umin 0.62, uavg -0.00 - vmax -0.62, vmin 0.62, vavg -0.00
+Iteration 0031, time 1.22, dt 5.03e-02, beta 1.00 - umax -0.61, umin 0.61, uavg -0.00 - vmax -0.61, vmin 0.61, vavg -0.00
+Iteration 0032, time 1.27, dt 5.13e-02, beta 1.00 - umax -0.60, umin 0.60, uavg -0.00 - vmax -0.60, vmin 0.60, vavg -0.00
+Iteration 0033, time 1.32, dt 5.23e-02, beta 1.00 - umax -0.59, umin 0.59, uavg -0.00 - vmax -0.59, vmin 0.59, vavg -0.00
+Iteration 0034, time 1.37, dt 5.33e-02, beta 1.00 - umax -0.58, umin 0.58, uavg -0.00 - vmax -0.58, vmin 0.58, vavg -0.00
+Iteration 0035, time 1.42, dt 5.44e-02, beta 1.00 - umax -0.56, umin 0.56, uavg -0.00 - vmax -0.56, vmin 0.56, vavg -0.00
+Iteration 0036, time 1.48, dt 5.55e-02, beta 1.00 - umax -0.55, umin 0.55, uavg -0.00 - vmax -0.55, vmin 0.55, vavg -0.00
+Iteration 0037, time 1.53, dt 5.67e-02, beta 1.00 - umax -0.54, umin 0.54, uavg -0.00 - vmax -0.54, vmin 0.54, vavg -0.00
+Iteration 0038, time 1.59, dt 5.79e-02, beta 1.00 - umax -0.53, umin 0.53, uavg -0.00 - vmax -0.53, vmin 0.53, vavg -0.00
+Iteration 0039, time 1.65, dt 5.91e-02, beta 1.00 - umax -0.52, umin 0.52, uavg -0.00 - vmax -0.52, vmin 0.52, vavg -0.00
+Iteration 0040, time 1.71, dt 6.04e-02, beta 1.00 - umax -0.50, umin 0.50, uavg -0.00 - vmax -0.51, vmin 0.50, vavg -0.00
+Iteration 0041, time 1.77, dt 6.18e-02, beta 1.00 - umax -0.49, umin 0.49, uavg -0.00 - vmax -0.49, vmin 0.49, vavg -0.00
+Iteration 0042, time 1.83, dt 6.32e-02, beta 1.00 - umax -0.48, umin 0.48, uavg -0.00 - vmax -0.48, vmin 0.48, vavg -0.00
+Iteration 0043, time 1.89, dt 6.47e-02, beta 1.00 - umax -0.47, umin 0.47, uavg -0.00 - vmax -0.47, vmin 0.47, vavg -0.00
+Iteration 0044, time 1.96, dt 6.63e-02, beta 1.00 - umax -0.46, umin 0.46, uavg -0.00 - vmax -0.46, vmin 0.46, vavg -0.00
+Iteration 0045, time 2.02, dt 6.79e-02, beta 1.00 - umax -0.45, umin 0.45, uavg -0.00 - vmax -0.45, vmin 0.45, vavg -0.00
+Iteration 0046, time 2.09, dt 6.96e-02, beta 1.00 - umax -0.43, umin 0.43, uavg -0.00 - vmax -0.44, vmin 0.43, vavg -0.00
+Iteration 0047, time 2.16, dt 7.13e-02, beta 1.00 - umax -0.42, umin 0.42, uavg -0.00 - vmax -0.42, vmin 0.42, vavg -0.00
+Iteration 0048, time 2.23, dt 7.32e-02, beta 1.00 - umax -0.41, umin 0.41, uavg -0.00 - vmax -0.41, vmin 0.41, vavg -0.00
+Iteration 0049, time 2.30, dt 7.51e-02, beta 1.00 - umax -0.40, umin 0.40, uavg -0.00 - vmax -0.40, vmin 0.40, vavg -0.00
+Iteration 0050, time 2.38, dt 7.71e-02, beta 1.00 - umax -0.39, umin 0.39, uavg -0.00 - vmax -0.39, vmin 0.39, vavg -0.00
+Iteration 0051, time 2.46, dt 7.93e-02, beta 1.00 - umax -0.38, umin 0.38, uavg -0.00 - vmax -0.38, vmin 0.38, vavg -0.00
+Iteration 0052, time 2.54, dt 8.15e-02, beta 1.00 - umax -0.37, umin 0.37, uavg -0.00 - vmax -0.37, vmin 0.37, vavg -0.00
+Iteration 0053, time 2.62, dt 8.38e-02, beta 1.00 - umax -0.35, umin 0.35, uavg -0.00 - vmax -0.35, vmin 0.35, vavg -0.00
+Iteration 0054, time 2.70, dt 8.62e-02, beta 1.00 - umax -0.34, umin 0.34, uavg -0.00 - vmax -0.34, vmin 0.34, vavg -0.00
+Iteration 0055, time 2.79, dt 8.88e-02, beta 1.00 - umax -0.33, umin 0.33, uavg -0.00 - vmax -0.33, vmin 0.33, vavg -0.00
+Iteration 0056, time 2.88, dt 9.15e-02, beta 1.00 - umax -0.32, umin 0.32, uavg -0.00 - vmax -0.32, vmin 0.32, vavg -0.00
+Iteration 0057, time 2.97, dt 9.43e-02, beta 1.00 - umax -0.31, umin 0.31, uavg -0.00 - vmax -0.31, vmin 0.31, vavg -0.00
+Iteration 0058, time 3.06, dt 9.72e-02, beta 1.00 - umax -0.30, umin 0.30, uavg -0.00 - vmax -0.30, vmin 0.30, vavg -0.00
+Iteration 0059, time 3.16, dt 1.00e-01, beta 1.00 - umax -0.29, umin 0.29, uavg -0.00 - vmax -0.29, vmin 0.29, vavg -0.00
+Iteration 0060, time 3.26, dt 1.03e-01, beta 1.00 - umax -0.28, umin 0.28, uavg -0.00 - vmax -0.28, vmin 0.28, vavg -0.00
+Iteration 0061, time 3.36, dt 1.07e-01, beta 1.00 - umax -0.27, umin 0.26, uavg -0.00 - vmax -0.27, vmin 0.26, vavg -0.00
+Iteration 0062, time 3.47, dt 1.10e-01, beta 1.00 - umax -0.25, umin 0.25, uavg -0.00 - vmax -0.25, vmin 0.25, vavg -0.00
+Iteration 0063, time 3.58, dt 1.14e-01, beta 1.00 - umax -0.24, umin 0.24, uavg -0.00 - vmax -0.24, vmin 0.24, vavg -0.00
+Iteration 0064, time 3.69, dt 1.18e-01, beta 1.00 - umax -0.23, umin 0.23, uavg -0.00 - vmax -0.23, vmin 0.23, vavg -0.00
+Iteration 0065, time 3.81, dt 1.22e-01, beta 1.00 - umax -0.22, umin 0.22, uavg -0.00 - vmax -0.22, vmin 0.22, vavg -0.00
+Iteration 0066, time 3.93, dt 1.26e-01, beta 1.00 - umax -0.21, umin 0.21, uavg -0.00 - vmax -0.21, vmin 0.21, vavg -0.00
+Iteration 0067, time 4.06, dt 1.30e-01, beta 1.00 - umax -0.20, umin 0.20, uavg -0.00 - vmax -0.20, vmin 0.20, vavg -0.00
+Iteration 0068, time 4.19, dt 1.34e-01, beta 1.00 - umax -0.19, umin 0.19, uavg -0.00 - vmax -0.19, vmin 0.19, vavg -0.00
+Iteration 0069, time 4.32, dt 1.39e-01, beta 1.00 - umax -0.18, umin 0.18, uavg -0.00 - vmax -0.18, vmin 0.18, vavg -0.00
+Iteration 0070, time 4.46, dt 1.43e-01, beta 1.00 - umax -0.17, umin 0.17, uavg -0.00 - vmax -0.17, vmin 0.17, vavg -0.00
+Iteration 0071, time 4.61, dt 1.48e-01, beta 1.00 - umax -0.16, umin 0.16, uavg -0.00 - vmax -0.16, vmin 0.16, vavg -0.00
+Iteration 0072, time 4.75, dt 1.53e-01, beta 1.00 - umax -0.15, umin 0.15, uavg -0.00 - vmax -0.15, vmin 0.15, vavg -0.00
+Iteration 0073, time 4.91, dt 1.57e-01, beta 1.00 - umax -0.15, umin 0.14, uavg -0.00 - vmax -0.15, vmin 0.14, vavg -0.00
+END
+tend:  4.907723588969504
+Temporal scheme:  RK
+RK scheme:  kutta_RK3   Consistent
+f:  0.30000000000000004
+Number of iterations:  74
+Average dt:  0.06844794312870588
+MSE:  2.7473477361070057e-07
+EAE: 0.0013061539966625069
+L2E: 0.5453613301735348
+Iteration 0000, time 0.00, dt 4.21e-02, beta 1.00 - umax -0.98, umin 0.98, uavg 0.00 - vmax -0.98, vmin 0.98, vavg 0.00
+Iteration 0001, time 0.04, dt 4.28e-02, beta 1.00 - umax -0.96, umin 0.96, uavg -0.00 - vmax -0.96, vmin 0.96, vavg -0.00
+Iteration 0002, time 0.08, dt 4.35e-02, beta 1.00 - umax -0.95, umin 0.95, uavg -0.00 - vmax -0.95, vmin 0.95, vavg -0.00
+Iteration 0003, time 0.13, dt 4.42e-02, beta 1.00 - umax -0.93, umin 0.93, uavg -0.00 - vmax -0.93, vmin 0.93, vavg -0.00
+Iteration 0004, time 0.17, dt 4.50e-02, beta 1.00 - umax -0.92, umin 0.92, uavg -0.00 - vmax -0.92, vmin 0.92, vavg -0.00
+Iteration 0005, time 0.22, dt 4.57e-02, beta 1.00 - umax -0.90, umin 0.90, uavg -0.00 - vmax -0.90, vmin 0.90, vavg -0.00
+Iteration 0006, time 0.26, dt 4.66e-02, beta 1.00 - umax -0.89, umin 0.89, uavg -0.00 - vmax -0.89, vmin 0.89, vavg -0.00
+Iteration 0007, time 0.31, dt 4.74e-02, beta 1.00 - umax -0.87, umin 0.87, uavg -0.00 - vmax -0.87, vmin 0.87, vavg -0.00
+Iteration 0008, time 0.36, dt 4.83e-02, beta 1.00 - umax -0.85, umin 0.85, uavg -0.00 - vmax -0.85, vmin 0.85, vavg -0.00
+Iteration 0009, time 0.41, dt 4.92e-02, beta 1.00 - umax -0.84, umin 0.84, uavg -0.00 - vmax -0.84, vmin 0.84, vavg -0.00
+Iteration 0010, time 0.45, dt 5.01e-02, beta 1.00 - umax -0.82, umin 0.82, uavg -0.00 - vmax -0.82, vmin 0.82, vavg -0.00
+Iteration 0011, time 0.50, dt 5.11e-02, beta 1.00 - umax -0.81, umin 0.81, uavg -0.00 - vmax -0.81, vmin 0.81, vavg -0.00
+Iteration 0012, time 0.56, dt 5.21e-02, beta 1.00 - umax -0.79, umin 0.79, uavg -0.00 - vmax -0.79, vmin 0.79, vavg -0.00
+Iteration 0013, time 0.61, dt 5.32e-02, beta 1.00 - umax -0.77, umin 0.77, uavg -0.00 - vmax -0.77, vmin 0.77, vavg -0.00
+Iteration 0014, time 0.66, dt 5.43e-02, beta 1.00 - umax -0.76, umin 0.76, uavg -0.00 - vmax -0.76, vmin 0.76, vavg -0.00
+Iteration 0015, time 0.72, dt 5.54e-02, beta 1.00 - umax -0.74, umin 0.74, uavg -0.00 - vmax -0.74, vmin 0.74, vavg -0.00
+Iteration 0016, time 0.77, dt 5.66e-02, beta 1.00 - umax -0.73, umin 0.73, uavg -0.00 - vmax -0.73, vmin 0.73, vavg -0.00
+Iteration 0017, time 0.83, dt 5.79e-02, beta 1.00 - umax -0.71, umin 0.71, uavg -0.00 - vmax -0.71, vmin 0.71, vavg -0.00
+Iteration 0018, time 0.89, dt 5.92e-02, beta 1.00 - umax -0.69, umin 0.70, uavg -0.00 - vmax -0.70, vmin 0.69, vavg -0.00
+Iteration 0019, time 0.94, dt 6.05e-02, beta 1.00 - umax -0.68, umin 0.68, uavg -0.00 - vmax -0.68, vmin 0.68, vavg -0.00
+Iteration 0020, time 1.01, dt 6.19e-02, beta 1.00 - umax -0.66, umin 0.66, uavg -0.00 - vmax -0.66, vmin 0.66, vavg -0.00
+Iteration 0021, time 1.07, dt 6.34e-02, beta 1.00 - umax -0.65, umin 0.65, uavg -0.00 - vmax -0.65, vmin 0.65, vavg -0.00
+Iteration 0022, time 1.13, dt 6.49e-02, beta 1.00 - umax -0.63, umin 0.63, uavg -0.00 - vmax -0.63, vmin 0.63, vavg -0.00
+Iteration 0023, time 1.20, dt 6.65e-02, beta 1.00 - umax -0.62, umin 0.62, uavg -0.00 - vmax -0.62, vmin 0.62, vavg -0.00
+Iteration 0024, time 1.26, dt 6.82e-02, beta 1.00 - umax -0.60, umin 0.60, uavg -0.00 - vmax -0.60, vmin 0.60, vavg -0.00
+Iteration 0025, time 1.33, dt 7.00e-02, beta 1.00 - umax -0.58, umin 0.58, uavg -0.00 - vmax -0.59, vmin 0.58, vavg -0.00
+Iteration 0026, time 1.40, dt 7.19e-02, beta 1.00 - umax -0.57, umin 0.57, uavg -0.00 - vmax -0.57, vmin 0.57, vavg -0.00
+Iteration 0027, time 1.47, dt 7.39e-02, beta 1.00 - umax -0.55, umin 0.55, uavg -0.00 - vmax -0.55, vmin 0.55, vavg -0.00
+Iteration 0028, time 1.55, dt 7.59e-02, beta 1.00 - umax -0.54, umin 0.54, uavg -0.00 - vmax -0.54, vmin 0.54, vavg -0.00
+Iteration 0029, time 1.62, dt 7.81e-02, beta 1.00 - umax -0.52, umin 0.52, uavg -0.00 - vmax -0.52, vmin 0.52, vavg -0.00
+Iteration 0030, time 1.70, dt 8.04e-02, beta 1.00 - umax -0.51, umin 0.51, uavg -0.00 - vmax -0.51, vmin 0.51, vavg -0.00
+Iteration 0031, time 1.78, dt 8.28e-02, beta 1.00 - umax -0.49, umin 0.49, uavg -0.00 - vmax -0.49, vmin 0.49, vavg -0.00
+Iteration 0032, time 1.86, dt 8.54e-02, beta 1.00 - umax -0.47, umin 0.47, uavg -0.00 - vmax -0.48, vmin 0.47, vavg -0.00
+Iteration 0033, time 1.95, dt 8.81e-02, beta 1.00 - umax -0.46, umin 0.46, uavg -0.00 - vmax -0.46, vmin 0.46, vavg -0.00
+Iteration 0034, time 2.04, dt 9.10e-02, beta 1.00 - umax -0.44, umin 0.44, uavg -0.00 - vmax -0.44, vmin 0.44, vavg -0.00
+Iteration 0035, time 2.13, dt 9.40e-02, beta 1.00 - umax -0.43, umin 0.43, uavg -0.00 - vmax -0.43, vmin 0.43, vavg -0.00
+Iteration 0036, time 2.22, dt 9.72e-02, beta 1.00 - umax -0.41, umin 0.41, uavg -0.00 - vmax -0.41, vmin 0.41, vavg -0.00
+Iteration 0037, time 2.32, dt 1.01e-01, beta 1.00 - umax -0.40, umin 0.40, uavg -0.00 - vmax -0.40, vmin 0.40, vavg -0.00
+Iteration 0038, time 2.42, dt 1.04e-01, beta 1.00 - umax -0.38, umin 0.38, uavg -0.00 - vmax -0.38, vmin 0.38, vavg -0.00
+Iteration 0039, time 2.52, dt 1.08e-01, beta 1.00 - umax -0.37, umin 0.37, uavg -0.00 - vmax -0.37, vmin 0.37, vavg -0.00
+Iteration 0040, time 2.63, dt 1.12e-01, beta 1.00 - umax -0.35, umin 0.35, uavg -0.00 - vmax -0.35, vmin 0.35, vavg -0.00
+Iteration 0041, time 2.74, dt 1.17e-01, beta 1.00 - umax -0.34, umin 0.34, uavg -0.00 - vmax -0.34, vmin 0.34, vavg -0.00
+Iteration 0042, time 2.86, dt 1.21e-01, beta 1.00 - umax -0.32, umin 0.32, uavg -0.00 - vmax -0.32, vmin 0.32, vavg -0.00
+Iteration 0043, time 2.98, dt 1.26e-01, beta 1.00 - umax -0.31, umin 0.31, uavg -0.00 - vmax -0.31, vmin 0.31, vavg -0.00
+Iteration 0044, time 3.11, dt 1.32e-01, beta 1.00 - umax -0.29, umin 0.29, uavg -0.00 - vmax -0.29, vmin 0.29, vavg -0.00
+Iteration 0045, time 3.24, dt 1.37e-01, beta 1.00 - umax -0.28, umin 0.28, uavg -0.00 - vmax -0.28, vmin 0.28, vavg -0.00
+Iteration 0046, time 3.38, dt 1.43e-01, beta 1.00 - umax -0.26, umin 0.26, uavg -0.00 - vmax -0.26, vmin 0.26, vavg -0.00
+Iteration 0047, time 3.52, dt 1.49e-01, beta 1.00 - umax -0.25, umin 0.25, uavg -0.00 - vmax -0.25, vmin 0.25, vavg -0.00
+Iteration 0048, time 3.67, dt 1.56e-01, beta 1.00 - umax -0.24, umin 0.23, uavg -0.00 - vmax -0.24, vmin 0.23, vavg -0.00
+Iteration 0049, time 3.83, dt 1.63e-01, beta 1.00 - umax -0.22, umin 0.22, uavg -0.00 - vmax -0.22, vmin 0.22, vavg -0.00
+Iteration 0050, time 3.99, dt 1.70e-01, beta 1.00 - umax -0.21, umin 0.21, uavg -0.00 - vmax -0.21, vmin 0.21, vavg -0.00
+Iteration 0051, time 4.16, dt 1.78e-01, beta 1.00 - umax -0.19, umin 0.19, uavg -0.00 - vmax -0.19, vmin 0.19, vavg -0.00
+Iteration 0052, time 4.34, dt 1.86e-01, beta 1.00 - umax -0.18, umin 0.18, uavg -0.00 - vmax -0.18, vmin 0.18, vavg -0.00
+Iteration 0053, time 4.52, dt 1.94e-01, beta 1.00 - umax -0.17, umin 0.17, uavg -0.00 - vmax -0.17, vmin 0.17, vavg -0.00
+Iteration 0054, time 4.72, dt 2.02e-01, beta 1.00 - umax -0.16, umin 0.16, uavg -0.00 - vmax -0.16, vmin 0.16, vavg -0.00
+Iteration 0055, time 4.92, dt 2.10e-01, beta 1.00 - umax -0.15, umin 0.14, uavg -0.00 - vmax -0.15, vmin 0.14, vavg -0.00
+END
+tend:  4.918400457974081
+Temporal scheme:  RK
+RK scheme:  kutta_RK3   Consistent
+f:  0.4
+Number of iterations:  56
+Average dt:  0.09158438902883669
+MSE:  2.7907658050044603e-07
+EAE: 0.0013077559554690518
+L2E: 0.5320237671619011
+Iteration 0000, time 0.00, dt 5.26e-02, beta 1.00 - umax -0.98, umin 0.98, uavg 0.00 - vmax -0.98, vmin 0.98, vavg 0.00
+Iteration 0001, time 0.05, dt 5.37e-02, beta 1.00 - umax -0.96, umin 0.96, uavg -0.00 - vmax -0.96, vmin 0.96, vavg -0.00
+Iteration 0002, time 0.11, dt 5.48e-02, beta 1.00 - umax -0.94, umin 0.94, uavg -0.00 - vmax -0.94, vmin 0.94, vavg -0.00
+Iteration 0003, time 0.16, dt 5.60e-02, beta 1.00 - umax -0.92, umin 0.92, uavg -0.00 - vmax -0.92, vmin 0.92, vavg -0.00
+Iteration 0004, time 0.22, dt 5.72e-02, beta 1.00 - umax -0.90, umin 0.90, uavg -0.00 - vmax -0.90, vmin 0.90, vavg -0.00
+Iteration 0005, time 0.27, dt 5.84e-02, beta 1.00 - umax -0.88, umin 0.88, uavg -0.00 - vmax -0.88, vmin 0.88, vavg -0.00
+Iteration 0006, time 0.33, dt 5.98e-02, beta 1.00 - umax -0.86, umin 0.86, uavg -0.00 - vmax -0.86, vmin 0.86, vavg -0.00
+Iteration 0007, time 0.39, dt 6.12e-02, beta 1.00 - umax -0.84, umin 0.84, uavg -0.00 - vmax -0.84, vmin 0.84, vavg -0.00
+Iteration 0008, time 0.45, dt 6.26e-02, beta 1.00 - umax -0.82, umin 0.82, uavg -0.00 - vmax -0.82, vmin 0.82, vavg -0.00
+Iteration 0009, time 0.52, dt 6.42e-02, beta 1.00 - umax -0.80, umin 0.80, uavg -0.00 - vmax -0.80, vmin 0.80, vavg -0.00
+Iteration 0010, time 0.58, dt 6.58e-02, beta 1.00 - umax -0.78, umin 0.78, uavg -0.00 - vmax -0.78, vmin 0.78, vavg -0.00
+Iteration 0011, time 0.65, dt 6.75e-02, beta 1.00 - umax -0.76, umin 0.76, uavg -0.00 - vmax -0.76, vmin 0.76, vavg -0.00
+Iteration 0012, time 0.71, dt 6.92e-02, beta 1.00 - umax -0.74, umin 0.74, uavg -0.00 - vmax -0.74, vmin 0.74, vavg -0.00
+Iteration 0013, time 0.78, dt 7.11e-02, beta 1.00 - umax -0.72, umin 0.72, uavg -0.00 - vmax -0.72, vmin 0.72, vavg -0.00
+Iteration 0014, time 0.85, dt 7.31e-02, beta 1.00 - umax -0.70, umin 0.70, uavg -0.00 - vmax -0.70, vmin 0.70, vavg -0.00
+Iteration 0015, time 0.93, dt 7.51e-02, beta 1.00 - umax -0.68, umin 0.68, uavg -0.00 - vmax -0.68, vmin 0.68, vavg -0.00
+Iteration 0016, time 1.00, dt 7.73e-02, beta 1.00 - umax -0.66, umin 0.66, uavg -0.00 - vmax -0.66, vmin 0.66, vavg -0.00
+Iteration 0017, time 1.08, dt 7.96e-02, beta 1.00 - umax -0.64, umin 0.64, uavg -0.00 - vmax -0.65, vmin 0.64, vavg -0.00
+Iteration 0018, time 1.16, dt 8.21e-02, beta 1.00 - umax -0.62, umin 0.63, uavg -0.00 - vmax -0.63, vmin 0.62, vavg -0.00
+Iteration 0019, time 1.24, dt 8.46e-02, beta 1.00 - umax -0.61, umin 0.61, uavg -0.00 - vmax -0.61, vmin 0.60, vavg -0.00
+Iteration 0020, time 1.33, dt 8.74e-02, beta 1.00 - umax -0.59, umin 0.59, uavg -0.00 - vmax -0.59, vmin 0.59, vavg -0.00
+Iteration 0021, time 1.41, dt 9.03e-02, beta 1.00 - umax -0.57, umin 0.57, uavg -0.00 - vmax -0.57, vmin 0.57, vavg -0.00
+Iteration 0022, time 1.50, dt 9.34e-02, beta 1.00 - umax -0.55, umin 0.55, uavg -0.00 - vmax -0.55, vmin 0.55, vavg -0.00
+Iteration 0023, time 1.60, dt 9.67e-02, beta 1.00 - umax -0.53, umin 0.53, uavg -0.00 - vmax -0.53, vmin 0.53, vavg -0.00
+Iteration 0024, time 1.69, dt 1.00e-01, beta 1.00 - umax -0.51, umin 0.51, uavg -0.00 - vmax -0.51, vmin 0.51, vavg -0.00
+Iteration 0025, time 1.79, dt 1.04e-01, beta 1.00 - umax -0.49, umin 0.49, uavg -0.00 - vmax -0.49, vmin 0.49, vavg -0.00
+Iteration 0026, time 1.90, dt 1.08e-01, beta 1.00 - umax -0.47, umin 0.47, uavg -0.00 - vmax -0.47, vmin 0.47, vavg -0.00
+Iteration 0027, time 2.01, dt 1.12e-01, beta 1.00 - umax -0.45, umin 0.45, uavg -0.00 - vmax -0.45, vmin 0.45, vavg -0.00
+Iteration 0028, time 2.12, dt 1.17e-01, beta 1.00 - umax -0.43, umin 0.43, uavg -0.00 - vmax -0.43, vmin 0.43, vavg -0.00
+Iteration 0029, time 2.24, dt 1.22e-01, beta 1.00 - umax -0.41, umin 0.41, uavg -0.00 - vmax -0.41, vmin 0.41, vavg -0.00
+Iteration 0030, time 2.36, dt 1.28e-01, beta 1.00 - umax -0.39, umin 0.39, uavg -0.00 - vmax -0.39, vmin 0.39, vavg -0.00
+Iteration 0031, time 2.49, dt 1.33e-01, beta 1.00 - umax -0.37, umin 0.37, uavg -0.00 - vmax -0.37, vmin 0.37, vavg -0.00
+Iteration 0032, time 2.62, dt 1.40e-01, beta 1.00 - umax -0.35, umin 0.35, uavg -0.00 - vmax -0.35, vmin 0.35, vavg -0.00
+Iteration 0033, time 2.76, dt 1.47e-01, beta 1.00 - umax -0.34, umin 0.33, uavg -0.00 - vmax -0.34, vmin 0.33, vavg -0.00
+Iteration 0034, time 2.90, dt 1.54e-01, beta 1.00 - umax -0.32, umin 0.32, uavg -0.00 - vmax -0.32, vmin 0.32, vavg -0.00
+Iteration 0035, time 3.06, dt 1.62e-01, beta 1.00 - umax -0.30, umin 0.30, uavg -0.00 - vmax -0.30, vmin 0.30, vavg -0.00
+Iteration 0036, time 3.22, dt 1.70e-01, beta 1.00 - umax -0.28, umin 0.28, uavg -0.00 - vmax -0.28, vmin 0.28, vavg -0.00
+Iteration 0037, time 3.39, dt 1.80e-01, beta 1.00 - umax -0.26, umin 0.26, uavg -0.00 - vmax -0.26, vmin 0.26, vavg -0.00
+Iteration 0038, time 3.57, dt 1.89e-01, beta 1.00 - umax -0.24, umin 0.24, uavg -0.00 - vmax -0.24, vmin 0.24, vavg -0.00
+Iteration 0039, time 3.76, dt 2.00e-01, beta 1.00 - umax -0.23, umin 0.23, uavg -0.00 - vmax -0.23, vmin 0.23, vavg -0.00
+Iteration 0040, time 3.96, dt 2.11e-01, beta 1.00 - umax -0.21, umin 0.21, uavg -0.00 - vmax -0.21, vmin 0.21, vavg -0.00
+Iteration 0041, time 4.17, dt 2.23e-01, beta 1.00 - umax -0.19, umin 0.19, uavg -0.00 - vmax -0.19, vmin 0.19, vavg -0.00
+Iteration 0042, time 4.39, dt 2.35e-01, beta 1.00 - umax -0.18, umin 0.18, uavg -0.00 - vmax -0.18, vmin 0.18, vavg -0.00
+Iteration 0043, time 4.63, dt 2.48e-01, beta 1.00 - umax -0.16, umin 0.16, uavg -0.00 - vmax -0.16, vmin 0.16, vavg -0.00
+Iteration 0044, time 4.88, dt 2.61e-01, beta 1.00 - umax -0.15, umin 0.15, uavg -0.00 - vmax -0.15, vmin 0.15, vavg -0.00
+END
+tend:  4.877998463153958
+Temporal scheme:  RK
+RK scheme:  kutta_RK3   Consistent
+f:  0.5
+Number of iterations:  45
+Average dt:  0.11419745823199325
+MSE:  2.769176531640875e-07
+EAE: 0.001302735455089861
+L2E: 0.5299162466817486
+Iteration 0000, time 0.00, dt 6.31e-02, beta 1.00 - umax -0.98, umin 0.98, uavg 0.00 - vmax -0.98, vmin 0.98, vavg 0.00
+Iteration 0001, time 0.06, dt 6.47e-02, beta 1.00 - umax -0.96, umin 0.96, uavg -0.00 - vmax -0.96, vmin 0.96, vavg -0.00
+Iteration 0002, time 0.13, dt 6.63e-02, beta 1.00 - umax -0.93, umin 0.93, uavg -0.00 - vmax -0.93, vmin 0.93, vavg -0.00
+Iteration 0003, time 0.19, dt 6.80e-02, beta 1.00 - umax -0.91, umin 0.91, uavg -0.00 - vmax -0.91, vmin 0.91, vavg -0.00
+Iteration 0004, time 0.26, dt 6.98e-02, beta 1.00 - umax -0.89, umin 0.89, uavg -0.00 - vmax -0.89, vmin 0.89, vavg -0.00
+Iteration 0005, time 0.33, dt 7.17e-02, beta 1.00 - umax -0.86, umin 0.86, uavg -0.00 - vmax -0.86, vmin 0.86, vavg -0.00
+Iteration 0006, time 0.40, dt 7.37e-02, beta 1.00 - umax -0.84, umin 0.84, uavg -0.00 - vmax -0.84, vmin 0.84, vavg -0.00
+Iteration 0007, time 0.48, dt 7.59e-02, beta 1.00 - umax -0.81, umin 0.82, uavg -0.00 - vmax -0.81, vmin 0.81, vavg -0.00
+Iteration 0008, time 0.55, dt 7.81e-02, beta 1.00 - umax -0.79, umin 0.79, uavg -0.00 - vmax -0.79, vmin 0.79, vavg -0.00
+Iteration 0009, time 0.63, dt 8.05e-02, beta 1.00 - umax -0.77, umin 0.77, uavg -0.00 - vmax -0.77, vmin 0.77, vavg -0.00
+Iteration 0010, time 0.71, dt 8.30e-02, beta 1.00 - umax -0.74, umin 0.74, uavg -0.00 - vmax -0.74, vmin 0.74, vavg -0.00
+Iteration 0011, time 0.79, dt 8.57e-02, beta 1.00 - umax -0.72, umin 0.72, uavg -0.00 - vmax -0.72, vmin 0.72, vavg -0.00
+Iteration 0012, time 0.88, dt 8.86e-02, beta 1.00 - umax -0.70, umin 0.70, uavg -0.00 - vmax -0.70, vmin 0.70, vavg -0.00
+Iteration 0013, time 0.97, dt 9.16e-02, beta 1.00 - umax -0.67, umin 0.67, uavg -0.00 - vmax -0.67, vmin 0.67, vavg -0.00
+Iteration 0014, time 1.06, dt 9.49e-02, beta 1.00 - umax -0.65, umin 0.65, uavg -0.00 - vmax -0.65, vmin 0.65, vavg -0.00
+Iteration 0015, time 1.16, dt 9.83e-02, beta 1.00 - umax -0.63, umin 0.63, uavg -0.00 - vmax -0.63, vmin 0.63, vavg -0.00
+Iteration 0016, time 1.25, dt 1.02e-01, beta 1.00 - umax -0.60, umin 0.60, uavg -0.00 - vmax -0.60, vmin 0.60, vavg -0.00
+Iteration 0017, time 1.36, dt 1.06e-01, beta 1.00 - umax -0.58, umin 0.58, uavg -0.00 - vmax -0.58, vmin 0.58, vavg -0.00
+Iteration 0018, time 1.46, dt 1.10e-01, beta 1.00 - umax -0.56, umin 0.56, uavg -0.00 - vmax -0.56, vmin 0.55, vavg -0.00
+Iteration 0019, time 1.57, dt 1.15e-01, beta 1.00 - umax -0.53, umin 0.53, uavg -0.00 - vmax -0.53, vmin 0.53, vavg -0.00
+Iteration 0020, time 1.69, dt 1.20e-01, beta 1.00 - umax -0.51, umin 0.51, uavg -0.00 - vmax -0.51, vmin 0.51, vavg -0.00
+Iteration 0021, time 1.81, dt 1.25e-01, beta 1.00 - umax -0.49, umin 0.49, uavg -0.00 - vmax -0.49, vmin 0.48, vavg -0.00
+Iteration 0022, time 1.93, dt 1.31e-01, beta 1.00 - umax -0.46, umin 0.46, uavg -0.00 - vmax -0.46, vmin 0.46, vavg -0.00
+Iteration 0023, time 2.06, dt 1.38e-01, beta 1.00 - umax -0.44, umin 0.44, uavg -0.00 - vmax -0.44, vmin 0.44, vavg -0.00
+Iteration 0024, time 2.20, dt 1.45e-01, beta 1.00 - umax -0.42, umin 0.42, uavg -0.00 - vmax -0.42, vmin 0.42, vavg -0.00
+Iteration 0025, time 2.35, dt 1.53e-01, beta 1.00 - umax -0.39, umin 0.39, uavg -0.00 - vmax -0.39, vmin 0.39, vavg -0.00
+Iteration 0026, time 2.50, dt 1.61e-01, beta 1.00 - umax -0.37, umin 0.37, uavg -0.00 - vmax -0.37, vmin 0.37, vavg -0.00
+Iteration 0027, time 2.66, dt 1.70e-01, beta 1.00 - umax -0.35, umin 0.35, uavg -0.00 - vmax -0.35, vmin 0.35, vavg -0.00
+Iteration 0028, time 2.83, dt 1.80e-01, beta 1.00 - umax -0.33, umin 0.33, uavg -0.00 - vmax -0.33, vmin 0.33, vavg -0.00
+Iteration 0029, time 3.01, dt 1.91e-01, beta 1.00 - umax -0.30, umin 0.30, uavg -0.00 - vmax -0.30, vmin 0.30, vavg -0.00
+Iteration 0030, time 3.20, dt 2.03e-01, beta 1.00 - umax -0.28, umin 0.28, uavg -0.00 - vmax -0.28, vmin 0.28, vavg -0.00
+Iteration 0031, time 3.40, dt 2.16e-01, beta 1.00 - umax -0.26, umin 0.26, uavg -0.00 - vmax -0.26, vmin 0.26, vavg -0.00
+Iteration 0032, time 3.62, dt 2.31e-01, beta 1.00 - umax -0.24, umin 0.24, uavg -0.00 - vmax -0.24, vmin 0.24, vavg -0.00
+Iteration 0033, time 3.85, dt 2.46e-01, beta 1.00 - umax -0.22, umin 0.22, uavg -0.00 - vmax -0.22, vmin 0.22, vavg -0.00
+Iteration 0034, time 4.10, dt 2.63e-01, beta 1.00 - umax -0.20, umin 0.20, uavg -0.00 - vmax -0.20, vmin 0.20, vavg -0.00
+Iteration 0035, time 4.36, dt 2.80e-01, beta 1.00 - umax -0.18, umin 0.18, uavg -0.00 - vmax -0.18, vmin 0.18, vavg -0.00
+Iteration 0036, time 4.64, dt 2.98e-01, beta 1.00 - umax -0.16, umin 0.16, uavg -0.00 - vmax -0.16, vmin 0.16, vavg -0.00
+Iteration 0037, time 4.94, dt 3.17e-01, beta 1.00 - umax -0.14, umin 0.14, uavg -0.00 - vmax -0.14, vmin 0.14, vavg -0.00
+END
+tend:  4.939978286023794
+Temporal scheme:  RK
+RK scheme:  kutta_RK3   Consistent
+f:  0.6
+Number of iterations:  38
+Average dt:  0.13833568308910604
+MSE:  2.8779608876216154e-07
+EAE: 0.0013114009782065547
+L2E: 0.5061383980578831
+Iteration 0000, time 0.00, dt 7.36e-02, beta 1.00 - umax -0.98, umin 0.98, uavg 0.00 - vmax -0.98, vmin 0.98, vavg 0.00
+Iteration 0001, time 0.07, dt 7.57e-02, beta 1.00 - umax -0.95, umin 0.95, uavg -0.00 - vmax -0.95, vmin 0.95, vavg -0.00
+Iteration 0002, time 0.15, dt 7.80e-02, beta 1.00 - umax -0.93, umin 0.93, uavg -0.00 - vmax -0.93, vmin 0.93, vavg -0.00
+Iteration 0003, time 0.23, dt 8.04e-02, beta 1.00 - umax -0.90, umin 0.90, uavg -0.00 - vmax -0.90, vmin 0.90, vavg -0.00
+Iteration 0004, time 0.31, dt 8.29e-02, beta 1.00 - umax -0.87, umin 0.87, uavg -0.00 - vmax -0.87, vmin 0.87, vavg -0.00
+Iteration 0005, time 0.39, dt 8.56e-02, beta 1.00 - umax -0.84, umin 0.84, uavg -0.00 - vmax -0.84, vmin 0.84, vavg -0.00
+Iteration 0006, time 0.48, dt 8.85e-02, beta 1.00 - umax -0.81, umin 0.82, uavg -0.00 - vmax -0.81, vmin 0.81, vavg -0.00
+Iteration 0007, time 0.56, dt 9.15e-02, beta 1.00 - umax -0.79, umin 0.79, uavg -0.00 - vmax -0.79, vmin 0.79, vavg -0.00
+Iteration 0008, time 0.66, dt 9.48e-02, beta 1.00 - umax -0.76, umin 0.76, uavg -0.00 - vmax -0.76, vmin 0.76, vavg -0.00
+Iteration 0009, time 0.75, dt 9.83e-02, beta 1.00 - umax -0.73, umin 0.73, uavg -0.00 - vmax -0.73, vmin 0.73, vavg -0.00
+Iteration 0010, time 0.85, dt 1.02e-01, beta 1.00 - umax -0.70, umin 0.71, uavg -0.00 - vmax -0.71, vmin 0.70, vavg -0.00
+Iteration 0011, time 0.95, dt 1.06e-01, beta 1.00 - umax -0.68, umin 0.68, uavg -0.00 - vmax -0.68, vmin 0.68, vavg -0.00
+Iteration 0012, time 1.06, dt 1.11e-01, beta 1.00 - umax -0.65, umin 0.65, uavg -0.00 - vmax -0.65, vmin 0.65, vavg -0.00
+Iteration 0013, time 1.17, dt 1.15e-01, beta 1.00 - umax -0.62, umin 0.62, uavg -0.00 - vmax -0.62, vmin 0.62, vavg -0.00
+Iteration 0014, time 1.28, dt 1.20e-01, beta 1.00 - umax -0.60, umin 0.60, uavg -0.00 - vmax -0.60, vmin 0.59, vavg -0.00
+Iteration 0015, time 1.40, dt 1.26e-01, beta 1.00 - umax -0.57, umin 0.57, uavg -0.00 - vmax -0.57, vmin 0.57, vavg -0.00
+Iteration 0016, time 1.53, dt 1.32e-01, beta 1.00 - umax -0.54, umin 0.54, uavg -0.00 - vmax -0.54, vmin 0.54, vavg -0.00
+Iteration 0017, time 1.66, dt 1.39e-01, beta 1.00 - umax -0.51, umin 0.51, uavg -0.00 - vmax -0.51, vmin 0.51, vavg -0.00
+Iteration 0018, time 1.80, dt 1.46e-01, beta 1.00 - umax -0.49, umin 0.49, uavg -0.00 - vmax -0.49, vmin 0.49, vavg -0.00
+Iteration 0019, time 1.95, dt 1.54e-01, beta 1.00 - umax -0.46, umin 0.46, uavg -0.00 - vmax -0.46, vmin 0.46, vavg -0.00
+Iteration 0020, time 2.10, dt 1.63e-01, beta 1.00 - umax -0.43, umin 0.43, uavg -0.00 - vmax -0.43, vmin 0.43, vavg -0.00
+Iteration 0021, time 2.26, dt 1.73e-01, beta 1.00 - umax -0.41, umin 0.41, uavg -0.00 - vmax -0.41, vmin 0.41, vavg -0.00
+Iteration 0022, time 2.44, dt 1.84e-01, beta 1.00 - umax -0.38, umin 0.38, uavg -0.00 - vmax -0.38, vmin 0.38, vavg -0.00
+Iteration 0023, time 2.62, dt 1.96e-01, beta 1.00 - umax -0.35, umin 0.35, uavg -0.00 - vmax -0.35, vmin 0.35, vavg -0.00
+Iteration 0024, time 2.82, dt 2.09e-01, beta 1.00 - umax -0.33, umin 0.33, uavg -0.00 - vmax -0.33, vmin 0.33, vavg -0.00
+Iteration 0025, time 3.02, dt 2.24e-01, beta 1.00 - umax -0.30, umin 0.30, uavg -0.00 - vmax -0.30, vmin 0.30, vavg -0.00
+Iteration 0026, time 3.25, dt 2.41e-01, beta 1.00 - umax -0.28, umin 0.28, uavg -0.00 - vmax -0.28, vmin 0.28, vavg -0.00
+Iteration 0027, time 3.49, dt 2.59e-01, beta 1.00 - umax -0.25, umin 0.25, uavg -0.00 - vmax -0.25, vmin 0.25, vavg -0.00
+Iteration 0028, time 3.75, dt 2.79e-01, beta 1.00 - umax -0.23, umin 0.23, uavg -0.00 - vmax -0.23, vmin 0.23, vavg -0.00
+Iteration 0029, time 4.03, dt 3.01e-01, beta 1.00 - umax -0.21, umin 0.20, uavg -0.00 - vmax -0.21, vmin 0.20, vavg -0.00
+Iteration 0030, time 4.33, dt 3.25e-01, beta 1.00 - umax -0.18, umin 0.18, uavg -0.00 - vmax -0.18, vmin 0.18, vavg -0.00
+Iteration 0031, time 4.65, dt 3.49e-01, beta 1.00 - umax -0.16, umin 0.16, uavg -0.00 - vmax -0.16, vmin 0.16, vavg -0.00
+END
+tend:  4.653222165754579
+Temporal scheme:  RK
+RK scheme:  kutta_RK3   Consistent
+f:  0.7000000000000001
+Number of iterations:  32
+Average dt:  0.15632089329244525
+MSE:  2.535882833964805e-07
+EAE: 0.0012669643420342644
+L2E: 0.5588415691451257
+Iteration 0000, time 0.00, dt 8.41e-02, beta 1.00 - umax -0.98, umin 0.98, uavg 0.00 - vmax -0.98, vmin 0.98, vavg 0.00
+Iteration 0001, time 0.08, dt 8.69e-02, beta 1.00 - umax -0.95, umin 0.95, uavg -0.00 - vmax -0.95, vmin 0.95, vavg -0.00
+Iteration 0002, time 0.17, dt 8.99e-02, beta 1.00 - umax -0.92, umin 0.92, uavg -0.00 - vmax -0.92, vmin 0.92, vavg -0.00
+Iteration 0003, time 0.26, dt 9.30e-02, beta 1.00 - umax -0.89, umin 0.89, uavg -0.00 - vmax -0.89, vmin 0.89, vavg -0.00
+Iteration 0004, time 0.35, dt 9.64e-02, beta 1.00 - umax -0.85, umin 0.86, uavg -0.00 - vmax -0.85, vmin 0.85, vavg -0.00
+Iteration 0005, time 0.45, dt 1.00e-01, beta 1.00 - umax -0.82, umin 0.82, uavg -0.00 - vmax -0.82, vmin 0.82, vavg -0.00
+Iteration 0006, time 0.55, dt 1.04e-01, beta 1.00 - umax -0.79, umin 0.79, uavg -0.00 - vmax -0.79, vmin 0.79, vavg -0.00
+Iteration 0007, time 0.65, dt 1.08e-01, beta 1.00 - umax -0.76, umin 0.76, uavg -0.00 - vmax -0.76, vmin 0.76, vavg -0.00
+Iteration 0008, time 0.76, dt 1.13e-01, beta 1.00 - umax -0.73, umin 0.73, uavg -0.00 - vmax -0.73, vmin 0.73, vavg -0.00
+Iteration 0009, time 0.88, dt 1.18e-01, beta 1.00 - umax -0.70, umin 0.70, uavg -0.00 - vmax -0.70, vmin 0.70, vavg -0.00
+Iteration 0010, time 0.99, dt 1.23e-01, beta 1.00 - umax -0.67, umin 0.67, uavg -0.00 - vmax -0.67, vmin 0.67, vavg -0.00
+Iteration 0011, time 1.12, dt 1.29e-01, beta 1.00 - umax -0.64, umin 0.64, uavg -0.00 - vmax -0.64, vmin 0.63, vavg -0.00
+Iteration 0012, time 1.25, dt 1.36e-01, beta 1.00 - umax -0.60, umin 0.60, uavg -0.00 - vmax -0.60, vmin 0.60, vavg -0.00
+Iteration 0013, time 1.38, dt 1.43e-01, beta 1.00 - umax -0.57, umin 0.57, uavg -0.00 - vmax -0.57, vmin 0.57, vavg -0.00
+Iteration 0014, time 1.52, dt 1.51e-01, beta 1.00 - umax -0.54, umin 0.54, uavg -0.00 - vmax -0.54, vmin 0.54, vavg -0.00
+Iteration 0015, time 1.68, dt 1.59e-01, beta 1.00 - umax -0.51, umin 0.51, uavg -0.00 - vmax -0.51, vmin 0.51, vavg -0.00
+Iteration 0016, time 1.83, dt 1.69e-01, beta 1.00 - umax -0.48, umin 0.48, uavg -0.00 - vmax -0.48, vmin 0.48, vavg -0.00
+Iteration 0017, time 2.00, dt 1.80e-01, beta 1.00 - umax -0.45, umin 0.45, uavg -0.00 - vmax -0.45, vmin 0.45, vavg -0.00
+Iteration 0018, time 2.18, dt 1.92e-01, beta 1.00 - umax -0.42, umin 0.42, uavg -0.00 - vmax -0.42, vmin 0.42, vavg -0.00
+Iteration 0019, time 2.38, dt 2.05e-01, beta 1.00 - umax -0.39, umin 0.39, uavg -0.00 - vmax -0.39, vmin 0.39, vavg -0.00
+Iteration 0020, time 2.58, dt 2.21e-01, beta 1.00 - umax -0.36, umin 0.36, uavg -0.00 - vmax -0.36, vmin 0.36, vavg -0.00
+Iteration 0021, time 2.80, dt 2.38e-01, beta 1.00 - umax -0.33, umin 0.33, uavg -0.00 - vmax -0.33, vmin 0.33, vavg -0.00
+Iteration 0022, time 3.04, dt 2.57e-01, beta 1.00 - umax -0.30, umin 0.30, uavg -0.00 - vmax -0.30, vmin 0.30, vavg -0.00
+Iteration 0023, time 3.30, dt 2.79e-01, beta 1.00 - umax -0.27, umin 0.27, uavg -0.00 - vmax -0.27, vmin 0.27, vavg -0.00
+Iteration 0024, time 3.58, dt 3.04e-01, beta 1.00 - umax -0.24, umin 0.24, uavg -0.00 - vmax -0.24, vmin 0.24, vavg -0.00
+Iteration 0025, time 3.88, dt 3.31e-01, beta 1.00 - umax -0.22, umin 0.22, uavg -0.00 - vmax -0.22, vmin 0.22, vavg -0.00
+Iteration 0026, time 4.21, dt 3.60e-01, beta 1.00 - umax -0.19, umin 0.19, uavg -0.00 - vmax -0.19, vmin 0.19, vavg -0.00
+Iteration 0027, time 4.57, dt 3.92e-01, beta 1.00 - umax -0.17, umin 0.16, uavg -0.00 - vmax -0.17, vmin 0.17, vavg -0.00
+Iteration 0028, time 4.96, dt 4.24e-01, beta 1.00 - umax -0.14, umin 0.14, uavg -0.00 - vmax -0.14, vmin 0.14, vavg -0.00
+END
+tend:  4.96185473738904
+Temporal scheme:  RK
+RK scheme:  kutta_RK3   Consistent
+f:  0.8
+Number of iterations:  29
+Average dt:  0.18572290604074398
+MSE:  2.9668753984239974e-07
+EAE: 0.001315913694816949
+L2E: 0.48127250126223836
+Iteration 0000, time 0.00, dt 9.47e-02, beta 1.00 - umax -0.98, umin 0.98, uavg 0.00 - vmax -0.98, vmin 0.98, vavg 0.00
+Iteration 0001, time 0.09, dt 9.82e-02, beta 1.00 - umax -0.95, umin 0.95, uavg -0.00 - vmax -0.95, vmin 0.95, vavg -0.00
+Iteration 0002, time 0.19, dt 1.02e-01, beta 1.00 - umax -0.91, umin 0.91, uavg -0.00 - vmax -0.91, vmin 0.91, vavg -0.00
+Iteration 0003, time 0.29, dt 1.06e-01, beta 1.00 - umax -0.87, umin 0.88, uavg -0.00 - vmax -0.87, vmin 0.87, vavg -0.00
+Iteration 0004, time 0.40, dt 1.10e-01, beta 1.00 - umax -0.84, umin 0.84, uavg -0.00 - vmax -0.84, vmin 0.84, vavg -0.00
+Iteration 0005, time 0.51, dt 1.15e-01, beta 1.00 - umax -0.80, umin 0.80, uavg -0.00 - vmax -0.80, vmin 0.80, vavg -0.00
+Iteration 0006, time 0.63, dt 1.21e-01, beta 1.00 - umax -0.77, umin 0.77, uavg -0.00 - vmax -0.77, vmin 0.77, vavg -0.00
+Iteration 0007, time 0.75, dt 1.26e-01, beta 1.00 - umax -0.73, umin 0.73, uavg -0.00 - vmax -0.73, vmin 0.73, vavg -0.00
+Iteration 0008, time 0.87, dt 1.32e-01, beta 1.00 - umax -0.70, umin 0.70, uavg -0.00 - vmax -0.70, vmin 0.70, vavg -0.00
+Iteration 0009, time 1.01, dt 1.39e-01, beta 1.00 - umax -0.66, umin 0.66, uavg -0.00 - vmax -0.66, vmin 0.66, vavg -0.00
+Iteration 0010, time 1.15, dt 1.47e-01, beta 1.00 - umax -0.63, umin 0.63, uavg -0.00 - vmax -0.63, vmin 0.63, vavg -0.00
+Iteration 0011, time 1.29, dt 1.55e-01, beta 1.00 - umax -0.59, umin 0.59, uavg -0.00 - vmax -0.59, vmin 0.59, vavg -0.00
+Iteration 0012, time 1.45, dt 1.65e-01, beta 1.00 - umax -0.56, umin 0.56, uavg -0.00 - vmax -0.56, vmin 0.56, vavg -0.00
+Iteration 0013, time 1.61, dt 1.75e-01, beta 1.00 - umax -0.52, umin 0.52, uavg -0.00 - vmax -0.52, vmin 0.52, vavg -0.00
+Iteration 0014, time 1.79, dt 1.87e-01, beta 1.00 - umax -0.49, umin 0.49, uavg -0.00 - vmax -0.49, vmin 0.49, vavg -0.00
+Iteration 0015, time 1.97, dt 2.00e-01, beta 1.00 - umax -0.45, umin 0.45, uavg -0.00 - vmax -0.46, vmin 0.45, vavg -0.00
+Iteration 0016, time 2.17, dt 2.15e-01, beta 1.00 - umax -0.42, umin 0.42, uavg -0.00 - vmax -0.42, vmin 0.42, vavg -0.00
+Iteration 0017, time 2.39, dt 2.32e-01, beta 1.00 - umax -0.39, umin 0.39, uavg -0.00 - vmax -0.39, vmin 0.39, vavg -0.00
+Iteration 0018, time 2.62, dt 2.52e-01, beta 1.00 - umax -0.35, umin 0.35, uavg -0.00 - vmax -0.35, vmin 0.35, vavg -0.00
+Iteration 0019, time 2.87, dt 2.74e-01, beta 1.00 - umax -0.32, umin 0.32, uavg -0.00 - vmax -0.32, vmin 0.32, vavg -0.00
+Iteration 0020, time 3.15, dt 3.00e-01, beta 1.00 - umax -0.29, umin 0.29, uavg -0.00 - vmax -0.29, vmin 0.29, vavg -0.00
+Iteration 0021, time 3.45, dt 3.29e-01, beta 1.00 - umax -0.26, umin 0.26, uavg -0.00 - vmax -0.26, vmin 0.26, vavg -0.00
+Iteration 0022, time 3.78, dt 3.62e-01, beta 1.00 - umax -0.23, umin 0.22, uavg -0.00 - vmax -0.23, vmin 0.23, vavg -0.00
+Iteration 0023, time 4.14, dt 3.98e-01, beta 1.00 - umax -0.20, umin 0.20, uavg -0.00 - vmax -0.20, vmin 0.20, vavg -0.00
+Iteration 0024, time 4.54, dt 4.38e-01, beta 1.00 - umax -0.17, umin 0.17, uavg -0.00 - vmax -0.17, vmin 0.17, vavg -0.00
+Iteration 0025, time 4.97, dt 4.78e-01, beta 1.00 - umax -0.14, umin 0.14, uavg -0.00 - vmax -0.14, vmin 0.14, vavg -0.00
+END
+tend:  4.972895443168257
+Temporal scheme:  RK
+RK scheme:  kutta_RK3   Consistent
+f:  0.9
+Number of iterations:  26
+Average dt:  0.20965403745758898
+MSE:  3.0125796073460616e-07
+EAE: 0.0013186445151325693
+L2E: 0.46921096648264965
+Iteration 0000, time 0.00, dt 1.05e-01, beta 1.00 - umax -0.98, umin 0.98, uavg 0.00 - vmax -0.98, vmin 0.98, vavg 0.00
+Iteration 0001, time 0.11, dt 1.10e-01, beta 1.00 - umax -0.94, umin 0.94, uavg -0.00 - vmax -0.94, vmin 0.94, vavg -0.00
+Iteration 0002, time 0.21, dt 1.14e-01, beta 1.00 - umax -0.90, umin 0.90, uavg -0.00 - vmax -0.90, vmin 0.90, vavg -0.00
+Iteration 0003, time 0.33, dt 1.19e-01, beta 1.00 - umax -0.86, umin 0.86, uavg -0.00 - vmax -0.86, vmin 0.86, vavg -0.00
+Iteration 0004, time 0.45, dt 1.25e-01, beta 1.00 - umax -0.82, umin 0.82, uavg -0.00 - vmax -0.82, vmin 0.82, vavg -0.00
+Iteration 0005, time 0.57, dt 1.31e-01, beta 1.00 - umax -0.78, umin 0.79, uavg -0.00 - vmax -0.78, vmin 0.78, vavg -0.00
+Iteration 0006, time 0.70, dt 1.38e-01, beta 1.00 - umax -0.75, umin 0.75, uavg -0.00 - vmax -0.75, vmin 0.75, vavg -0.00
+Iteration 0007, time 0.84, dt 1.45e-01, beta 1.00 - umax -0.71, umin 0.71, uavg -0.00 - vmax -0.71, vmin 0.71, vavg -0.00
+Iteration 0008, time 0.99, dt 1.54e-01, beta 1.00 - umax -0.67, umin 0.67, uavg -0.00 - vmax -0.67, vmin 0.67, vavg -0.00
+Iteration 0009, time 1.14, dt 1.63e-01, beta 1.00 - umax -0.63, umin 0.63, uavg -0.00 - vmax -0.63, vmin 0.63, vavg -0.00
+Iteration 0010, time 1.30, dt 1.73e-01, beta 1.00 - umax -0.59, umin 0.59, uavg -0.00 - vmax -0.59, vmin 0.59, vavg -0.00
+Iteration 0011, time 1.48, dt 1.85e-01, beta 1.00 - umax -0.55, umin 0.55, uavg -0.00 - vmax -0.55, vmin 0.55, vavg -0.00
+Iteration 0012, time 1.66, dt 1.98e-01, beta 1.00 - umax -0.51, umin 0.51, uavg -0.00 - vmax -0.51, vmin 0.51, vavg -0.00
+Iteration 0013, time 1.86, dt 2.13e-01, beta 1.00 - umax -0.48, umin 0.48, uavg -0.00 - vmax -0.48, vmin 0.47, vavg -0.00
+Iteration 0014, time 2.08, dt 2.31e-01, beta 1.00 - umax -0.44, umin 0.44, uavg -0.00 - vmax -0.44, vmin 0.44, vavg -0.00
+Iteration 0015, time 2.31, dt 2.50e-01, beta 1.00 - umax -0.40, umin 0.40, uavg -0.00 - vmax -0.40, vmin 0.40, vavg -0.00
+Iteration 0016, time 2.56, dt 2.73e-01, beta 1.00 - umax -0.36, umin 0.36, uavg -0.00 - vmax -0.36, vmin 0.36, vavg -0.00
+Iteration 0017, time 2.83, dt 3.00e-01, beta 1.00 - umax -0.33, umin 0.33, uavg -0.00 - vmax -0.33, vmin 0.33, vavg -0.00
+Iteration 0018, time 3.13, dt 3.31e-01, beta 1.00 - umax -0.29, umin 0.29, uavg -0.00 - vmax -0.29, vmin 0.29, vavg -0.00
+Iteration 0019, time 3.46, dt 3.67e-01, beta 1.00 - umax -0.26, umin 0.25, uavg -0.00 - vmax -0.26, vmin 0.25, vavg -0.00
+Iteration 0020, time 3.83, dt 4.08e-01, beta 1.00 - umax -0.22, umin 0.22, uavg -0.00 - vmax -0.22, vmin 0.22, vavg -0.00
+Iteration 0021, time 4.24, dt 4.53e-01, beta 1.00 - umax -0.19, umin 0.19, uavg -0.00 - vmax -0.19, vmin 0.19, vavg -0.00
+Iteration 0022, time 4.69, dt 5.02e-01, beta 1.00 - umax -0.16, umin 0.16, uavg -0.00 - vmax -0.16, vmin 0.16, vavg -0.00
+END
+tend:  4.688579816332957
+Temporal scheme:  RK
+RK scheme:  kutta_RK3   Consistent
+f:  1.0
+Number of iterations:  23
+Average dt:  0.2256935791081546
+MSE:  2.6746002239979575e-07
+EAE: 0.0012768082907662487
+L2E: 0.5191766830587529
+Iteration 0000, time 0.00, dt 1.16e-01, beta 1.00 - umax -0.98, umin 0.98, uavg 0.00 - vmax -0.98, vmin 0.98, vavg 0.00
+Iteration 0001, time 0.12, dt 1.21e-01, beta 1.00 - umax -0.94, umin 0.94, uavg -0.00 - vmax -0.94, vmin 0.94, vavg -0.00
+Iteration 0002, time 0.24, dt 1.27e-01, beta 1.00 - umax -0.89, umin 0.90, uavg -0.00 - vmax -0.89, vmin 0.89, vavg -0.00
+Iteration 0003, time 0.36, dt 1.33e-01, beta 1.00 - umax -0.85, umin 0.85, uavg -0.00 - vmax -0.85, vmin 0.85, vavg -0.00
+Iteration 0004, time 0.50, dt 1.40e-01, beta 1.00 - umax -0.81, umin 0.81, uavg -0.00 - vmax -0.81, vmin 0.81, vavg -0.00
+Iteration 0005, time 0.64, dt 1.48e-01, beta 1.00 - umax -0.77, umin 0.77, uavg -0.00 - vmax -0.77, vmin 0.77, vavg -0.00
+Iteration 0006, time 0.78, dt 1.57e-01, beta 1.00 - umax -0.72, umin 0.72, uavg -0.00 - vmax -0.72, vmin 0.72, vavg -0.00
+Iteration 0007, time 0.94, dt 1.66e-01, beta 1.00 - umax -0.68, umin 0.68, uavg -0.00 - vmax -0.68, vmin 0.68, vavg -0.00
+Iteration 0008, time 1.11, dt 1.77e-01, beta 1.00 - umax -0.64, umin 0.64, uavg -0.00 - vmax -0.64, vmin 0.64, vavg -0.00
+Iteration 0009, time 1.28, dt 1.89e-01, beta 1.00 - umax -0.59, umin 0.60, uavg -0.00 - vmax -0.60, vmin 0.59, vavg -0.00
+Iteration 0010, time 1.47, dt 2.03e-01, beta 1.00 - umax -0.55, umin 0.55, uavg -0.00 - vmax -0.55, vmin 0.55, vavg -0.00
+Iteration 0011, time 1.68, dt 2.19e-01, beta 1.00 - umax -0.51, umin 0.51, uavg -0.00 - vmax -0.51, vmin 0.51, vavg -0.00
+Iteration 0012, time 1.90, dt 2.38e-01, beta 1.00 - umax -0.47, umin 0.47, uavg -0.00 - vmax -0.47, vmin 0.47, vavg -0.00
+Iteration 0013, time 2.13, dt 2.59e-01, beta 1.00 - umax -0.43, umin 0.43, uavg -0.00 - vmax -0.43, vmin 0.43, vavg -0.00
+Iteration 0014, time 2.39, dt 2.84e-01, beta 1.00 - umax -0.39, umin 0.39, uavg -0.00 - vmax -0.39, vmin 0.39, vavg -0.00
+Iteration 0015, time 2.68, dt 3.14e-01, beta 1.00 - umax -0.35, umin 0.35, uavg -0.00 - vmax -0.35, vmin 0.35, vavg -0.00
+Iteration 0016, time 2.99, dt 3.48e-01, beta 1.00 - umax -0.31, umin 0.31, uavg -0.00 - vmax -0.31, vmin 0.31, vavg -0.00
+Iteration 0017, time 3.34, dt 3.89e-01, beta 1.00 - umax -0.27, umin 0.27, uavg -0.00 - vmax -0.27, vmin 0.27, vavg -0.00
+Iteration 0018, time 3.73, dt 4.36e-01, beta 1.00 - umax -0.23, umin 0.23, uavg -0.00 - vmax -0.23, vmin 0.23, vavg -0.00
+Iteration 0019, time 4.16, dt 4.90e-01, beta 1.00 - umax -0.19, umin 0.19, uavg -0.00 - vmax -0.19, vmin 0.19, vavg -0.00
+Iteration 0020, time 4.65, dt 5.49e-01, beta 1.00 - umax -0.16, umin 0.16, uavg -0.00 - vmax -0.16, vmin 0.16, vavg -0.00
+END
+tend:  4.653078790521365
+Temporal scheme:  RK
+RK scheme:  kutta_RK3   Consistent
+f:  1.1
+Number of iterations:  21
+Average dt:  0.24769508063973833
+MSE:  2.6737268632445136e-07
+EAE: 0.001283720903161173
+L2E: 0.5170059213199713
+Iteration 0000, time 0.00, dt 1.26e-01, beta 1.00 - umax -0.98, umin 0.98, uavg 0.00 - vmax -0.98, vmin 0.98, vavg 0.00
+Iteration 0001, time 0.13, dt 1.32e-01, beta 1.00 - umax -0.93, umin 0.93, uavg -0.00 - vmax -0.93, vmin 0.93, vavg -0.00
+Iteration 0002, time 0.26, dt 1.39e-01, beta 1.00 - umax -0.89, umin 0.89, uavg -0.00 - vmax -0.89, vmin 0.89, vavg -0.00
+Iteration 0003, time 0.40, dt 1.47e-01, beta 1.00 - umax -0.84, umin 0.84, uavg -0.00 - vmax -0.84, vmin 0.84, vavg -0.00
+Iteration 0004, time 0.55, dt 1.56e-01, beta 1.00 - umax -0.79, umin 0.79, uavg -0.00 - vmax -0.79, vmin 0.79, vavg -0.00
+Iteration 0005, time 0.70, dt 1.65e-01, beta 1.00 - umax -0.75, umin 0.75, uavg -0.00 - vmax -0.75, vmin 0.75, vavg -0.00
+Iteration 0006, time 0.87, dt 1.76e-01, beta 1.00 - umax -0.70, umin 0.70, uavg -0.00 - vmax -0.70, vmin 0.70, vavg -0.00
+Iteration 0007, time 1.04, dt 1.88e-01, beta 1.00 - umax -0.65, umin 0.65, uavg -0.00 - vmax -0.65, vmin 0.65, vavg -0.00
+Iteration 0008, time 1.23, dt 2.02e-01, beta 1.00 - umax -0.61, umin 0.61, uavg -0.00 - vmax -0.61, vmin 0.61, vavg -0.00
+Iteration 0009, time 1.43, dt 2.18e-01, beta 1.00 - umax -0.56, umin 0.56, uavg -0.00 - vmax -0.56, vmin 0.56, vavg -0.00
+Iteration 0010, time 1.65, dt 2.37e-01, beta 1.00 - umax -0.52, umin 0.52, uavg -0.00 - vmax -0.52, vmin 0.52, vavg -0.00
+Iteration 0011, time 1.89, dt 2.59e-01, beta 1.00 - umax -0.47, umin 0.47, uavg -0.00 - vmax -0.47, vmin 0.47, vavg -0.00
+Iteration 0012, time 2.15, dt 2.84e-01, beta 1.00 - umax -0.43, umin 0.42, uavg -0.00 - vmax -0.43, vmin 0.42, vavg -0.00
+Iteration 0013, time 2.43, dt 3.14e-01, beta 1.00 - umax -0.38, umin 0.38, uavg -0.00 - vmax -0.38, vmin 0.38, vavg -0.00
+Iteration 0014, time 2.75, dt 3.50e-01, beta 1.00 - umax -0.34, umin 0.34, uavg -0.00 - vmax -0.34, vmin 0.34, vavg -0.00
+Iteration 0015, time 3.10, dt 3.93e-01, beta 1.00 - umax -0.29, umin 0.29, uavg -0.00 - vmax -0.29, vmin 0.29, vavg -0.00
+Iteration 0016, time 3.49, dt 4.44e-01, beta 1.00 - umax -0.25, umin 0.25, uavg -0.00 - vmax -0.25, vmin 0.25, vavg -0.00
+Iteration 0017, time 3.93, dt 5.03e-01, beta 1.00 - umax -0.21, umin 0.21, uavg -0.00 - vmax -0.21, vmin 0.21, vavg -0.00
+Iteration 0018, time 4.44, dt 5.71e-01, beta 1.00 - umax -0.17, umin 0.17, uavg -0.00 - vmax -0.17, vmin 0.17, vavg -0.00
+END
+tend:  4.435911688567101
+Temporal scheme:  RK
+RK scheme:  kutta_RK3   Consistent
+f:  1.2000000000000002
+Number of iterations:  19
+Average dt:  0.26349991058322536
+MSE:  2.3390451744433003e-07
+EAE: 0.0012426098377349426
+L2E: 0.5612792597482781
+Iteration 0000, time 0.00, dt 1.37e-01, beta 1.00 - umax -0.98, umin 0.98, uavg 0.00 - vmax -0.98, vmin 0.98, vavg 0.00
+Iteration 0001, time 0.14, dt 1.44e-01, beta 1.00 - umax -0.93, umin 0.93, uavg -0.00 - vmax -0.93, vmin 0.93, vavg -0.00
+Iteration 0002, time 0.28, dt 1.52e-01, beta 1.00 - umax -0.88, umin 0.88, uavg -0.00 - vmax -0.88, vmin 0.88, vavg -0.00
+Iteration 0003, time 0.43, dt 1.62e-01, beta 1.00 - umax -0.83, umin 0.83, uavg -0.00 - vmax -0.83, vmin 0.83, vavg -0.00
+Iteration 0004, time 0.59, dt 1.72e-01, beta 1.00 - umax -0.78, umin 0.78, uavg -0.00 - vmax -0.78, vmin 0.78, vavg -0.00
+Iteration 0005, time 0.77, dt 1.84e-01, beta 1.00 - umax -0.73, umin 0.73, uavg -0.00 - vmax -0.73, vmin 0.73, vavg -0.00
+Iteration 0006, time 0.95, dt 1.97e-01, beta 1.00 - umax -0.68, umin 0.68, uavg -0.00 - vmax -0.68, vmin 0.68, vavg -0.00
+Iteration 0007, time 1.15, dt 2.12e-01, beta 1.00 - umax -0.63, umin 0.63, uavg -0.00 - vmax -0.63, vmin 0.63, vavg -0.00
+Iteration 0008, time 1.36, dt 2.30e-01, beta 1.00 - umax -0.58, umin 0.58, uavg -0.00 - vmax -0.58, vmin 0.58, vavg -0.00
+Iteration 0009, time 1.59, dt 2.51e-01, beta 1.00 - umax -0.53, umin 0.53, uavg -0.00 - vmax -0.53, vmin 0.53, vavg -0.00
+Iteration 0010, time 1.84, dt 2.75e-01, beta 1.00 - umax -0.48, umin 0.48, uavg -0.00 - vmax -0.48, vmin 0.48, vavg -0.00
+Iteration 0011, time 2.12, dt 3.04e-01, beta 1.00 - umax -0.43, umin 0.43, uavg -0.00 - vmax -0.43, vmin 0.43, vavg -0.00
+Iteration 0012, time 2.42, dt 3.39e-01, beta 1.00 - umax -0.38, umin 0.38, uavg -0.00 - vmax -0.38, vmin 0.38, vavg -0.00
+Iteration 0013, time 2.76, dt 3.81e-01, beta 1.00 - umax -0.34, umin 0.33, uavg -0.00 - vmax -0.34, vmin 0.33, vavg -0.00
+Iteration 0014, time 3.14, dt 4.32e-01, beta 1.00 - umax -0.29, umin 0.29, uavg -0.00 - vmax -0.29, vmin 0.29, vavg -0.00
+Iteration 0015, time 3.57, dt 4.93e-01, beta 1.00 - umax -0.24, umin 0.24, uavg -0.00 - vmax -0.24, vmin 0.24, vavg -0.00
+Iteration 0016, time 4.07, dt 5.64e-01, beta 1.00 - umax -0.20, umin 0.20, uavg -0.00 - vmax -0.20, vmin 0.20, vavg -0.00
+Iteration 0017, time 4.63, dt 6.42e-01, beta 1.00 - umax -0.19, umin 0.18, uavg -0.00 - vmax -0.18, vmin 0.18, vavg -0.00
+END
+tend:  4.630228228546281
+Temporal scheme:  RK
+RK scheme:  kutta_RK3   Consistent
+f:  1.3000000000000003
+Number of iterations:  18
+Average dt:  0.2929084705731461
+MSE:  1.9918028683429e-05
+EAE: 0.030786504120847685
+L2E: 4.770975289279399
+Iteration 0000, time 0.00, dt 1.47e-01, beta 1.00 - umax -0.98, umin 0.98, uavg 0.00 - vmax -0.98, vmin 0.98, vavg 0.00
+Iteration 0001, time 0.15, dt 1.56e-01, beta 1.00 - umax -0.93, umin 0.93, uavg -0.00 - vmax -0.93, vmin 0.93, vavg -0.00
+Iteration 0002, time 0.30, dt 1.65e-01, beta 1.00 - umax -0.87, umin 0.87, uavg -0.00 - vmax -0.87, vmin 0.87, vavg -0.00
+Iteration 0003, time 0.47, dt 1.76e-01, beta 1.00 - umax -0.82, umin 0.82, uavg -0.00 - vmax -0.82, vmin 0.82, vavg -0.00
+Iteration 0004, time 0.64, dt 1.89e-01, beta 1.00 - umax -0.76, umin 0.76, uavg -0.00 - vmax -0.76, vmin 0.76, vavg -0.00
+Iteration 0005, time 0.83, dt 2.03e-01, beta 1.00 - umax -0.71, umin 0.71, uavg -0.00 - vmax -0.71, vmin 0.71, vavg -0.00
+Iteration 0006, time 1.04, dt 2.19e-01, beta 1.00 - umax -0.66, umin 0.66, uavg -0.00 - vmax -0.66, vmin 0.65, vavg -0.00
+Iteration 0007, time 1.26, dt 2.38e-01, beta 1.00 - umax -0.60, umin 0.60, uavg -0.00 - vmax -0.60, vmin 0.60, vavg -0.00
+Iteration 0008, time 1.49, dt 2.61e-01, beta 1.00 - umax -0.55, umin 0.55, uavg -0.00 - vmax -0.55, vmin 0.55, vavg -0.00
+Iteration 0009, time 1.76, dt 2.87e-01, beta 1.00 - umax -0.50, umin 0.50, uavg -0.00 - vmax -0.50, vmin 0.49, vavg -0.00
+Iteration 0010, time 2.04, dt 3.19e-01, beta 1.00 - umax -0.44, umin 0.44, uavg -0.00 - vmax -0.44, vmin 0.44, vavg -0.00
+Iteration 0011, time 2.36, dt 3.58e-01, beta 1.00 - umax -0.39, umin 0.39, uavg -0.00 - vmax -0.39, vmin 0.39, vavg -0.00
+Iteration 0012, time 2.72, dt 4.05e-01, beta 1.00 - umax -0.34, umin 0.34, uavg -0.00 - vmax -0.34, vmin 0.34, vavg -0.00
+Iteration 0013, time 3.12, dt 4.63e-01, beta 1.00 - umax -0.29, umin 0.29, uavg -0.00 - vmax -0.29, vmin 0.29, vavg -0.00
+Iteration 0014, time 3.59, dt 5.33e-01, beta 1.00 - umax -0.24, umin 0.24, uavg -0.00 - vmax -0.24, vmin 0.24, vavg -0.00
+Iteration 0015, time 4.12, dt 6.12e-01, beta 1.00 - umax -0.21, umin 0.22, uavg -0.00 - vmax -0.20, vmin 0.22, vavg -0.00
+Iteration 0016, time 4.73, dt 5.30e-01, beta 1.00 - umax -0.66, umin 0.82, uavg -0.00 - vmax -0.77, vmin 0.75, vavg -0.00
+END
+tend:  4.731891970487402
+Temporal scheme:  RK
+RK scheme:  kutta_RK3   Consistent
+f:  1.4000000000000001
+Number of iterations:  17
+Average dt:  0.30950188852355814
+MSE:  0.033089446550414174
+EAE: 0.7489782172436196
+L2E: 100.2886657364937
+Iteration 0000, time 0.00, dt 1.58e-01, beta 1.00 - umax -0.98, umin 0.98, uavg 0.00 - vmax -0.98, vmin 0.98, vavg 0.00
+Iteration 0001, time 0.16, dt 1.68e-01, beta 1.00 - umax -0.92, umin 0.92, uavg -0.00 - vmax -0.92, vmin 0.92, vavg -0.00
+Iteration 0002, time 0.33, dt 1.79e-01, beta 1.00 - umax -0.86, umin 0.86, uavg -0.00 - vmax -0.86, vmin 0.86, vavg -0.00
+Iteration 0003, time 0.50, dt 1.92e-01, beta 1.00 - umax -0.81, umin 0.81, uavg -0.00 - vmax -0.81, vmin 0.81, vavg -0.00
+Iteration 0004, time 0.70, dt 2.06e-01, beta 1.00 - umax -0.75, umin 0.75, uavg -0.00 - vmax -0.75, vmin 0.75, vavg -0.00
+Iteration 0005, time 0.90, dt 2.23e-01, beta 1.00 - umax -0.69, umin 0.69, uavg -0.00 - vmax -0.69, vmin 0.69, vavg -0.00
+Iteration 0006, time 1.13, dt 2.43e-01, beta 1.00 - umax -0.63, umin 0.63, uavg -0.00 - vmax -0.63, vmin 0.63, vavg -0.00
+Iteration 0007, time 1.37, dt 2.66e-01, beta 1.00 - umax -0.58, umin 0.58, uavg -0.00 - vmax -0.58, vmin 0.58, vavg -0.00
+Iteration 0008, time 1.63, dt 2.94e-01, beta 1.00 - umax -0.52, umin 0.52, uavg -0.00 - vmax -0.52, vmin 0.52, vavg -0.00
+Iteration 0009, time 1.93, dt 3.28e-01, beta 1.00 - umax -0.46, umin 0.46, uavg -0.00 - vmax -0.46, vmin 0.46, vavg -0.00
+Iteration 0010, time 2.26, dt 3.69e-01, beta 1.00 - umax -0.41, umin 0.41, uavg -0.00 - vmax -0.41, vmin 0.41, vavg -0.00
+Iteration 0011, time 2.63, dt 4.20e-01, beta 1.00 - umax -0.35, umin 0.35, uavg -0.00 - vmax -0.35, vmin 0.35, vavg -0.00
+Iteration 0012, time 3.05, dt 4.83e-01, beta 1.00 - umax -0.30, umin 0.30, uavg -0.00 - vmax -0.30, vmin 0.30, vavg -0.00
+Iteration 0013, time 3.53, dt 5.59e-01, beta 1.00 - umax -0.25, umin 0.26, uavg -0.00 - vmax -0.26, vmin 0.27, vavg -0.00
+Iteration 0014, time 4.09, dt 6.16e-01, beta 1.00 - umax -0.39, umin 0.57, uavg -0.00 - vmax -0.44, vmin 0.52, vavg -0.00
+Iteration 0015, time 4.70, dt 2.07e-02, beta 1.00 - umax -11.54, umin 14.83, uavg -0.02 - vmax -15.33, vmin 11.24, vavg -0.01
+Iteration 0016, time 4.73, dt 1.65e-02, beta 1.00 - umax -20.67, umin 11.36, uavg -0.01 - vmax -20.69, vmin 11.27, vavg 0.05
+Iteration 0017, time 4.74, dt 9.88e-03, beta 1.00 - umax -17.84, umin 17.26, uavg 0.00 - vmax -17.08, vmin 27.03, vavg -0.03
+Iteration 0018, time 4.75, dt 9.15e-03, beta 1.00 - umax -17.52, umin 24.97, uavg 0.00 - vmax -15.41, vmin 31.65, vavg -0.02
+Iteration 0019, time 4.76, dt 1.24e-02, beta 1.00 - umax -22.12, umin 19.76, uavg 0.08 - vmax -16.09, vmin 23.77, vavg -0.02
+Iteration 0020, time 4.77, dt 1.52e-02, beta 1.00 - umax -19.86, umin 15.94, uavg 0.05 - vmax -14.45, vmin 18.22, vavg -0.01
+Iteration 0021, time 4.79, dt 1.58e-02, beta 1.00 - umax -18.58, umin 21.40, uavg -0.04 - vmax -17.24, vmin 11.88, vavg -0.02
+Iteration 0022, time 4.80, dt 1.23e-02, beta 1.00 - umax -24.00, umin 19.65, uavg -0.09 - vmax -20.48, vmin 19.73, vavg -0.02
+Iteration 0023, time 4.82, dt 1.03e-02, beta 1.00 - umax -31.18, umin 23.42, uavg -0.11 - vmax -22.70, vmin 17.95, vavg -0.01
+Iteration 0024, time 4.83, dt 8.14e-03, beta 1.00 - umax -29.78, umin 24.64, uavg -0.14 - vmax -31.99, vmin 21.51, vavg -0.05
+Iteration 0025, time 4.83, dt 7.57e-03, beta 1.00 - umax -30.68, umin 25.06, uavg -0.19 - vmax -18.20, vmin 18.56, vavg -0.05
+Iteration 0026, time 4.84, dt 7.28e-03, beta 1.00 - umax -35.13, umin 23.93, uavg -0.26 - vmax -25.48, vmin 17.36, vavg -0.05
+Iteration 0027, time 4.85, dt 7.41e-03, beta 1.00 - umax -37.92, umin 19.01, uavg -0.23 - vmax -21.46, vmin 22.21, vavg -0.11
+Iteration 0028, time 4.86, dt 7.88e-03, beta 1.00 - umax -35.20, umin 20.49, uavg -0.16 - vmax -22.73, vmin 16.90, vavg -0.16
+Iteration 0029, time 4.87, dt 6.48e-03, beta 1.00 - umax -38.18, umin 19.15, uavg -0.11 - vmax -17.02, vmin 17.36, vavg -0.20
+Iteration 0030, time 4.87, dt 6.09e-03, beta 1.00 - umax -40.51, umin 22.45, uavg -0.10 - vmax -17.48, vmin 25.55, vavg -0.21
+Iteration 0031, time 4.88, dt 6.17e-03, beta 1.00 - umax -47.45, umin 25.84, uavg -0.14 - vmax -21.15, vmin 15.67, vavg -0.21
+Iteration 0032, time 4.88, dt 4.74e-03, beta 1.00 - umax -52.90, umin 27.87, uavg -0.19 - vmax -33.88, vmin 29.84, vavg -0.21
+Iteration 0033, time 4.89, dt 4.52e-03, beta 1.00 - umax -58.82, umin 32.28, uavg -0.23 - vmax -25.40, vmin 26.64, vavg -0.20
+Iteration 0034, time 4.89, dt 3.94e-03, beta 1.00 - umax -64.95, umin 32.40, uavg -0.24 - vmax -50.25, vmin 26.16, vavg -0.18
+Iteration 0035, time 4.90, dt 3.65e-03, beta 1.00 - umax -76.13, umin 35.27, uavg -0.27 - vmax -29.31, vmin 37.61, vavg -0.14
+Iteration 0036, time 4.90, dt 3.28e-03, beta 1.00 - umax -76.39, umin 41.32, uavg -0.30 - vmax -54.59, vmin 35.81, vavg -0.10
+Iteration 0037, time 4.90, dt 3.04e-03, beta 1.00 - umax -93.92, umin 48.88, uavg -0.33 - vmax -27.75, vmin 42.48, vavg -0.15
+Iteration 0038, time 4.91, dt 3.04e-03, beta 1.00 - umax -92.49, umin 41.94, uavg -0.30 - vmax -53.47, vmin 42.19, vavg -0.25
+Iteration 0039, time 4.91, dt 2.54e-03, beta 1.00 - umax -96.87, umin 49.73, uavg -0.31 - vmax -50.07, vmin 62.95, vavg -0.35
+Iteration 0040, time 4.91, dt 2.09e-03, beta 1.00 - umax -127.12, umin 57.29, uavg -0.25 - vmax -81.09, vmin 47.31, vavg -0.44
+Iteration 0041, time 4.91, dt 1.85e-03, beta 1.00 - umax -142.12, umin 59.92, uavg -0.26 - vmax -50.60, vmin 69.41, vavg -0.54
+Iteration 0042, time 4.92, dt 1.54e-03, beta 1.00 - umax -157.96, umin 68.60, uavg -0.30 - vmax -86.48, vmin 77.08, vavg -0.62
+Iteration 0043, time 4.92, dt 1.41e-03, beta 1.00 - umax -181.48, umin 76.63, uavg -0.33 - vmax -73.60, vmin 73.50, vavg -0.67
+Iteration 0044, time 4.92, dt 1.28e-03, beta 1.00 - umax -198.35, umin 73.17, uavg -0.28 - vmax -116.18, vmin 88.01, vavg -0.71
+Iteration 0045, time 4.92, dt 1.07e-03, beta 1.00 - umax -241.30, umin 99.01, uavg -0.28 - vmax -109.96, vmin 85.07, vavg -0.59
+Iteration 0046, time 4.92, dt 9.54e-04, beta 1.00 - umax -270.02, umin 116.70, uavg -0.29 - vmax -153.61, vmin 116.32, vavg -0.31
+Iteration 0047, time 4.92, dt 8.18e-04, beta 1.00 - umax -320.84, umin 122.23, uavg -0.42 - vmax -131.60, vmin 123.69, vavg -0.36
+Iteration 0048, time 4.92, dt 7.91e-04, beta 1.00 - umax -355.68, umin 154.32, uavg -0.42 - vmax -197.27, vmin 145.31, vavg -0.56
+Iteration 0049, time 4.92, dt 6.21e-04, beta 1.00 - umax -411.97, umin 196.88, uavg -0.49 - vmax -193.18, vmin 157.35, vavg -0.72
+Iteration 0050, time 4.92, dt 5.64e-04, beta 1.00 - umax -449.73, umin 236.98, uavg -0.54 - vmax -252.32, vmin 203.85, vavg -0.83
+Iteration 0051, time 4.93, dt 4.75e-04, beta 1.00 - umax -556.99, umin 227.50, uavg -0.79 - vmax -232.40, vmin 216.81, vavg -0.92
+Iteration 0052, time 4.93, dt 4.54e-04, beta 1.00 - umax -586.79, umin 271.23, uavg -0.73 - vmax -297.01, vmin 243.24, vavg -0.97
+Iteration 0053, time 4.93, dt 3.56e-04, beta 1.00 - umax -740.49, umin 294.73, uavg -1.00 - vmax -333.47, vmin 243.63, vavg -0.95
+Iteration 0054, time 4.93, dt 3.36e-04, beta 1.00 - umax -800.66, umin 367.94, uavg -1.02 - vmax -357.02, vmin 416.35, vavg -0.90
+Iteration 0055, time 4.93, dt 2.66e-04, beta 1.00 - umax -991.04, umin 401.87, uavg -1.48 - vmax -515.01, vmin 342.04, vavg -0.89
+Iteration 0056, time 4.93, dt 2.55e-04, beta 1.00 - umax -1083.25, umin 446.18, uavg -1.57 - vmax -426.93, vmin 578.75, vavg -0.69
+Iteration 0057, time 4.93, dt 1.97e-04, beta 1.00 - umax -1349.28, umin 520.55, uavg -2.18 - vmax -679.51, vmin 502.76, vavg -0.58
+Iteration 0058, time 4.93, dt 1.91e-04, beta 1.00 - umax -1439.63, umin 606.29, uavg -2.25 - vmax -567.16, vmin 734.29, vavg -1.29
+Iteration 0059, time 4.93, dt 1.48e-04, beta 1.00 - umax -1780.73, umin 691.61, uavg -2.93 - vmax -925.62, vmin 646.35, vavg -2.14
+Iteration 0060, time 4.93, dt 1.42e-04, beta 1.00 - umax -1937.92, umin 826.98, uavg -2.93 - vmax -740.35, vmin 964.37, vavg -2.84
+Iteration 0061, time 4.93, dt 1.12e-04, beta 1.00 - umax -2308.37, umin 913.62, uavg -3.48 - vmax -1192.17, vmin 769.54, vavg -3.63
+Iteration 0062, time 4.93, dt 1.08e-04, beta 1.00 - umax -2524.62, umin 1078.17, uavg -3.68 - vmax -980.84, vmin 1175.27, vavg -4.21
+Iteration 0063, time 4.93, dt 8.57e-05, beta 1.00 - umax -3011.31, umin 1171.20, uavg -4.38 - vmax -1589.95, vmin 1074.56, vavg -4.77
+Iteration 0064, time 4.93, dt 8.07e-05, beta 1.00 - umax -3380.63, umin 1399.96, uavg -4.65 - vmax -1351.72, vmin 1606.20, vavg -5.14
+Iteration 0065, time 4.93, dt 6.73e-05, beta 1.00 - umax -3787.18, umin 1418.14, uavg -4.46 - vmax -1994.73, vmin 1648.42, vavg -5.60
+Iteration 0066, time 4.93, dt 6.22e-05, beta 1.00 - umax -4289.95, umin 1687.69, uavg -4.78 - vmax -1781.84, vmin 1782.58, vavg -4.64
+Iteration 0067, time 4.93, dt 5.19e-05, beta 1.00 - umax -4883.32, umin 1790.10, uavg -4.94 - vmax -2499.88, vmin 2510.50, vavg -3.58
+Iteration 0068, time 4.93, dt 4.74e-05, beta 1.00 - umax -5544.69, umin 2088.45, uavg -6.52 - vmax -2339.85, vmin 2030.72, vavg -4.29
+Iteration 0069, time 4.93, dt 4.19e-05, beta 1.00 - umax -6055.10, umin 2316.06, uavg -6.19 - vmax -3073.11, vmin 3309.71, vavg -6.75
+Iteration 0070, time 4.93, dt 3.60e-05, beta 1.00 - umax -7163.86, umin 2718.19, uavg -8.66 - vmax -3337.18, vmin 2587.79, vavg -8.02
+Iteration 0071, time 4.93, dt 3.25e-05, beta 1.00 - umax -7838.95, umin 3185.97, uavg -8.84 - vmax -3777.74, vmin 4294.58, vavg -9.04
+Iteration 0072, time 4.93, dt 2.77e-05, beta 1.00 - umax -9417.56, umin 3855.04, uavg -12.56 - vmax -4720.34, vmin 3623.53, vavg -10.05
+Iteration 0073, time 4.93, dt 2.54e-05, beta 1.00 - umax -10372.71, umin 4241.54, uavg -11.79 - vmax -5221.90, vmin 5402.85, vavg -10.87
+Iteration 0074, time 4.93, dt 2.01e-05, beta 1.00 - umax -12823.13, umin 5767.67, uavg -16.69 - vmax -6598.09, vmin 4518.98, vavg -11.82
+Iteration 0075, time 4.93, dt 1.82e-05, beta 1.00 - umax -14137.79, umin 6214.44, uavg -16.42 - vmax -5969.43, vmin 7056.88, vavg -12.98
+Iteration 0076, time 4.93, dt 1.54e-05, beta 1.00 - umax -17069.99, umin 6434.71, uavg -23.83 - vmax -8782.28, vmin 5921.98, vavg -15.81
+Iteration 0077, time 4.93, dt 1.43e-05, beta 1.00 - umax -18010.01, umin 7271.83, uavg -21.71 - vmax -7340.14, vmin 9661.78, vavg -13.39
+Iteration 0078, time 4.93, dt 1.18e-05, beta 1.00 - umax -22431.37, umin 8199.97, uavg -31.73 - vmax -11396.61, vmin 7559.74, vavg -19.60
+Iteration 0079, time 4.93, dt 1.12e-05, beta 1.00 - umax -24136.52, umin 9944.58, uavg -30.78 - vmax -9909.18, vmin 14057.55, vavg -28.75
+Iteration 0080, time 4.93, dt 8.80e-06, beta 1.00 - umax -29736.18, umin 12165.50, uavg -45.40 - vmax -15842.92, vmin 11173.67, vavg -27.06
+Iteration 0081, time 4.93, dt 8.01e-06, beta 1.00 - umax -31569.70, umin 14002.28, uavg -48.69 - vmax -12187.45, vmin 18673.97, vavg -13.24
+Iteration 0082, time 4.93, dt 6.64e-06, beta 1.00 - umax -39733.11, umin 14328.23, uavg -66.74 - vmax -17450.73, vmin 14452.26, vavg 1.02
+Iteration 0083, time 4.93, dt 6.30e-06, beta 1.00 - umax -42148.05, umin 16709.27, uavg -66.50 - vmax -15956.40, vmin 23956.84, vavg 13.11
+Iteration 0084, time 4.93, dt 5.04e-06, beta 1.00 - umax -51574.73, umin 19985.05, uavg -90.69 - vmax -22796.74, vmin 21675.09, vavg 23.71
+Iteration 0085, time 4.93, dt 4.89e-06, beta 1.00 - umax -56346.65, umin 25880.77, uavg -87.29 - vmax -22778.46, vmin 29033.42, vavg 31.36
+Iteration 0086, time 4.93, dt 3.70e-06, beta 1.00 - umax -69315.84, umin 31824.51, uavg -121.08 - vmax -32449.82, vmin 33241.85, vavg 39.04
+Iteration 0087, time 4.93, dt 3.43e-06, beta 1.00 - umax -74435.46, umin 39517.97, uavg -132.80 - vmax -30805.49, vmin 38946.02, vavg 56.22
+Iteration 0088, time 4.93, dt 2.80e-06, beta 1.00 - umax -93622.63, umin 35954.61, uavg -168.09 - vmax -35334.09, vmin 41166.67, vavg 41.69
+Iteration 0089, time 4.93, dt 2.67e-06, beta 1.00 - umax -103880.97, umin 44121.62, uavg -167.30 - vmax -42426.71, vmin 53179.29, vavg -26.18
+Iteration 0090, time 4.93, dt 2.10e-06, beta 1.00 - umax -124025.12, umin 56175.05, uavg -203.99 - vmax -46418.61, vmin 61110.93, vavg -35.31
+Iteration 0091, time 4.93, dt 1.97e-06, beta 1.00 - umax -140968.95, umin 66639.04, uavg -234.15 - vmax -56374.25, vmin 66204.38, vavg 32.53
+Iteration 0092, time 4.93, dt 1.63e-06, beta 1.00 - umax -157664.69, umin 73452.46, uavg -260.25 - vmax -62514.98, vmin 86421.51, vavg 92.82
+Iteration 0093, time 4.93, dt 1.51e-06, beta 1.00 - umax -178047.86, umin 82272.03, uavg -353.42 - vmax -73488.13, vmin 71867.10, vavg 130.81
+Iteration 0094, time 4.93, dt 1.30e-06, beta 1.00 - umax -199470.80, umin 85347.27, uavg -360.98 - vmax -68197.69, vmin 112053.94, vavg 164.95
+Iteration 0095, time 4.93, dt 1.20e-06, beta 1.00 - umax -227544.23, umin 84901.52, uavg -426.02 - vmax -102092.22, vmin 72529.33, vavg 197.53
+Iteration 0096, time 4.93, dt 1.16e-06, beta 1.00 - umax -232097.96, umin 107689.66, uavg -367.43 - vmax -94449.32, vmin 141502.89, vavg 219.57
+Iteration 0097, time 4.93, dt 9.34e-07, beta 1.00 - umax -274058.32, umin 120647.42, uavg -511.50 - vmax -178324.90, vmin 121015.25, vavg 220.95
+Iteration 0098, time 4.93, dt 8.75e-07, beta 1.00 - umax -305500.53, umin 136496.41, uavg -545.28 - vmax -129789.32, vmin 187686.07, vavg 259.87
+Iteration 0099, time 4.93, dt 6.99e-07, beta 1.00 - umax -356616.01, umin 163701.12, uavg -737.65 - vmax -236966.53, vmin 155220.94, vavg 254.60
+Iteration 0100, time 4.93, dt 6.21e-07, beta 1.00 - umax -411326.44, umin 198519.24, uavg -710.48 - vmax -157899.05, vmin 216315.55, vavg 245.89
+Iteration 0101, time 4.93, dt 5.48e-07, beta 1.00 - umax -470777.43, umin 197122.80, uavg -732.97 - vmax -216134.52, vmin 161400.93, vavg 550.35
