@@ -92,3 +92,5 @@ legend(h,leg,'Interpreter','latex');
 xlabel("Time [s]",'Interpreter','latex');
 ylabel("Nu",'Interpreter','latex');
 ylim([0 100])
+set(gcf,'Position',[100 100 624 500])
+exportgraphics(gca,"nusselt2.pdf","Resolution",300)

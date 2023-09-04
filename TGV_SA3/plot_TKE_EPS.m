@@ -58,10 +58,10 @@ f{7} = factor;
 f{8} = factor;
 
 % Names for the figures saved
-name_1 = 'TKE.png';
-name_2 = 'EPS.png';
-name_3 = 'eTKE.png';
-name_4 = 'eEPS.png';
+name_1 = 'TKE.pdf';
+name_2 = 'EPS.pdf';
+name_3 = 'eTKE.pdf';
+name_4 = 'eEPS.pdf';
 
 % Read the data of SA3 1024^3 AB+CFL to use it as reference
 tab_ref = readtable('energy_1024.csv');
@@ -97,7 +97,8 @@ end
 legend(legg,'Interpreter','Latex','Location','northeast')
 xlabel('Time [s]','Interpreter','latex')
 ylabel('$$E_k$$','Interpreter','latex')
-exportgraphics(gca,name_1,'Resolution',600)
+set(gcf,'Position',[100 100 480 384])
+exportgraphics(gca,name_1,'Resolution',300)
 
 % Second figure, dissipation of TKE evolution
 figure
@@ -137,7 +138,8 @@ end
 legend(legg,'Interpreter','Latex')
 xlabel('Time [s]','Interpreter','latex')
 ylabel('$\hat{\epsilon}({E}_k)$','Interpreter','latex')
-exportgraphics(gca,name_2,'Resolution',600)
+set(gcf,'Position',[100 100 480 384])
+exportgraphics(gca,name_2,'Resolution',300)
 
 % Third figure, error in TKE
 figure
@@ -152,7 +154,8 @@ end
 xlabel('Time [s]','Interpreter','latex')
 ylabel('Error in ${E}_k$','Interpreter','Latex')
 legend(legg{2:end},'Interpreter','Latex','Location','southeast')
-exportgraphics(gca,name_3,'Resolution',600)
+set(gcf,'Position',[100 100 480 384])
+exportgraphics(gca,name_3,'Resolution',300)
 
 % Fourth figure, error in dissipation of TKE
 figure
@@ -167,7 +170,8 @@ end
 xlabel('Time [s]','Interpreter','latex')
 ylabel('Error in $\hat{\epsilon}({E}_k)$','Interpreter','latex')
 legend(legg{2:end},'Interpreter','Latex','Location','southeast')
-exportgraphics(gca,name_4,'Resolution',600)
+set(gcf,'Position',[100 100 480 384])
+exportgraphics(gca,name_4,'Resolution',300)
 
 
 function df = dx_od4(f,h)

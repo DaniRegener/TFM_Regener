@@ -30,9 +30,9 @@ fmax.(sch{3}) = 1.8;
 fmax.(sch{4}) = 1.6;
 fmax.(sch{5}) = 1.4;
 % names of the output figures
-name_1 = 'f_SA3.png';
-name_2 = 'dt_SA3.png';
-name_3 = 'poisson_SA3.png';
+name_1 = 'f_SA3.pdf';
+name_2 = 'dt_SA3.pdf';
+name_3 = 'poisson_SA3.pdf';
 
 % Read the data of SA3 1024^3 AB+CFL to use it as reference
 tab_ref = readtable("energy_1024.csv");
@@ -73,7 +73,7 @@ legend(leg,'Interpreter','latex','Location','northwest')
 xlabel('Security factor $f$','Interpreter','latex')
 ylim([0 300])
 ylabel("MSE in ${E}_k$",'Interpreter','latex')
-set(gcf,'Position',[100 100 800 400])
+set(gcf,'Position',[100 100 640 320])
 exportgraphics(gca,name_1,'Resolution',600)
 
 
@@ -89,7 +89,7 @@ xlabel('Poisson iterations','Interpreter','latex')
 xlim([0 1e3])
 ylim([1 100])
 ylabel("MSE in ${E}_k$",'Interpreter','latex')
-set(gcf,'Position',[100 100 800 400])
+set(gcf,'Position',[100 100 640 320])
 exportgraphics(gca,name_2,'Resolution',600)
 
 % Delete the data that presents a shorter delta t for a larger f
@@ -114,9 +114,9 @@ grid on
 for i = 1:length(sch)
     plot(25./solveP_corrected.(sch{i})(1,:),MSE_corrected.(sch{i}),markers{i})         
 end
-legend(leg,'Location','northwest','Interpreter','latex')
+legend(leg,'Location','north','Interpreter','latex')
 ylim([0 20])
 xlabel('Mean $\Delta t$','Interpreter','latex')
 ylabel("MSE in ${E}_k$",'Interpreter','latex')
-set(gcf,'Position',[100 100 800 400])
+set(gcf,'Position',[100 100 640 320])
 exportgraphics(gca,name_3,'Resolution',600)
